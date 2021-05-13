@@ -1,0 +1,6678 @@
+word_in_doc,similarity,actual_medical_word
+swelling,88,Swelling
+buning eyes,87,Burning eyes
+age,86,Rage
+old,86,Cold
+nightmare,89,Nightmare
+screaming,89,Screaming
+old,86,Cold
+age,86,Rage
+all,86,Fall
+all,86,Fall
+elts,89,Welts
+all,86,Fall
+elts,89,Welts
+ADHD,100,ADHD
+ADHD,100,ADHD
+old,86,Cold
+partial seizure,90,Partial seizures
+seizure,86,Seizure
+seizure,86,Seizure
+seizure,86,Seizure
+ADHD,100,ADHD
+all,86,Fall
+art,86,Wart
+glaucoma,88,Glaucoma
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+tasted bitter,88,Taste bitter
+infection,89,Infection
+all,86,Fall
+"yeast infection,",90,Yeast infection
+yeast infection,93,Yeast infection
+infection,89,Infection
+yeast infections,90,Yeast infection
+tastes bitter,88,Taste bitter
+bleeding,88,Bleeding
+being irritated,88,Feeling irritated
+the tightness,86,Chest tightness
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+sickness,88,Sickness
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+old,86,Cold
+swelling,88,Swelling
+Swelling,100,Swelling
+Could,89,Cold
+all,86,Fall
+Brain Injury,92,Brain injury
+Stress,100,Stress
+staring,86,Staring
+all,86,Fall
+all,86,Fall
+eating,86,Sweating
+joint pain,90,Joint pain
+runny nose,90,Runny nose
+Diarrhea,100,Diarrhea
+all,86,Fall
+out,86,Gout
+out,86,Gout
+had dreams,90,Bad dreams
+all,86,Fall
+weakness,88,Weakness
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+itching,88,Twitching
+out,86,Gout
+old,86,Cold
+all,86,Fall
+diabetic,88,Diabetic
+old,86,Cold
+nervous,86,Nervous
+Could,89,Cold
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+diarrhea,88,Diarrhea
+diarrhea,88,Diarrhea
+diarrhea,88,Diarrhea
+out,86,Gout
+double vision,92,Double vision
+double vision,92,Double vision
+ear,86,Fear
+tearing,86,Staring
+Could,89,Cold
+weight gain,91,Weight gain
+out,86,Gout
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+misscarriage,87,Miscarriage
+all,86,Fall
+out,86,Gout
+miscarriage,91,Miscarriage
+eating,86,Sweating
+all,86,Fall
+farIrregular Periods,86,Irregular periods
+out,86,Gout
+out,86,Gout
+out,86,Gout
+constipation,92,Constipation
+diarrhea,88,Diarrhea
+all,86,Fall
+diarrhea,88,Diarrhea
+constipation,92,Constipation
+all,86,Fall
+difference,91,Indifference
+dry lips,88,Dry lips
+differencei,87,Indifference
+confused,88,Confused
+breast tenderness,94,Breast tenderness
+tenderness,90,Tenderness
+out,86,Gout
+Pain,100,Pain
+MS,100,MS
+age,86,Rage
+all,86,Fall
+old,86,Cold
+age,86,Rage
+cataract,88,Cataract
+frustration,91,Frustration
+old,86,Cold
+old,86,Cold
+constipation,92,Constipation
+Autism,100,Autism
+out,86,Gout
+constipation,92,Constipation
+constipation,92,Constipation
+all,86,Fall
+old,86,Cold
+normal behavior,91,Abnormal behaviour
+age,86,Rage
+old,86,Cold
+out,86,Gout
+out,86,Gout
+shingles,88,Shingles
+"runny nose,",86,Runny nose
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+diarrhea,88,Diarrhea
+age,86,Rage
+out,86,Gout
+old,86,Cold
+"ADHD,",89,ADHD
+"Agressiveness,",93,Aggressiveness
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+insomnia,88,Insomnia
+old,86,Cold
+out,86,Gout
+"hyperactivity,",89,Hyperactivity
+out,86,Gout
+age,86,Rage
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+Could,89,Cold
+eating,86,Sweating
+ever,89,Fever
+Cancer,100,Cancer
+out,86,Gout
+withdrawn,89,Withdrawn
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+out,86,Gout
+tenderness,90,Tenderness
+all,86,Fall
+out,86,Gout
+coughing,88,Coughing
+hot flashes,91,Hot flashes
+Could,89,Cold
+hot flashes,91,Hot flashes
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+food poisoning,93,Food poisoning
+poisoning,89,Poisoning
+old,86,Cold
+chest pain,90,Chest pain
+gall stones,86,Gallstones
+all,86,Fall
+"Celiac Disease,",90,Celiac disease
+ever,89,Fever
+"feeling sick,",88,Feeling sick
+all,86,Fall
+blood pressure,88,Low blood pressure
+all,86,Fall
+eating,86,Sweating
+old,86,Cold
+swelling,88,Swelling
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+old,86,Cold
+eye disease,87,Lyme disease
+cataracts,89,Cataracts
+out,86,Gout
+age,86,Rage
+old,86,Cold
+all,86,Fall
+old,86,Cold
+chest pain,90,Chest pain
+Could,89,Cold
+old,86,Cold
+fertility,90,Infertility
+all,86,Fall
+age,86,Rage
+abdominal cramps,94,Abdominal cramps
+abdominal cramps,94,Abdominal cramps
+back pain,89,Back pain
+constipation,92,Constipation
+back pain,89,Back pain
+confused,88,Confused
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+cataract,88,Cataract
+astigmatism,91,Astigmatism
+astigmatism,91,Astigmatism
+weakness,88,Weakness
+astigmatism?,87,Astigmatism
+all,86,Fall
+fracture,88,Fracture
+old,86,Cold
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+light-headedness,90,Lightheadedness
+abdominal discomfort,95,Abdominal discomfort
+discomfort,90,Discomfort
+all,86,Fall
+eating,86,Sweating
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+pimples,86,Pimples
+confused,88,Confused
+old,86,Cold
+vaginal infection,94,Vaginal infection
+infection,89,Infection
+yeast infection,93,Yeast infection
+infection,89,Infection
+infection,89,Infection
+bloody discharge,94,Bloody discharge
+a burning,86,Pain burning
+burning sensation,94,Burning sensation
+infection,89,Infection
+out,86,Gout
+infection,89,Infection
+chest pain,90,Chest pain
+overweight,90,Overweight
+ever,89,Fever
+stomach pain,92,Stomach pain
+all,86,Fall
+arthritis,89,Arthritis
+all,86,Fall
+all,86,Fall
+swelling,88,Swelling
+allergice reation,88,Allergic reaction
+dry skin,88,Dry skin
+itching,88,Twitching
+bleeding,88,Bleeding
+all,86,Fall
+weight loss,91,Weight loss
+out,86,Gout
+confused,88,Confused
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+numbness,88,Numbness
+mouth ulcer,91,Mouth ulcer
+sinus infection,93,Sinus infection
+infection,89,Infection
+numbness,88,Numbness
+tingling,88,Stinging
+out,86,Gout
+mouth ulcers,87,Mouth ulcer
+out,86,Gout
+clear discharge,86,Ear discharge
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+anxiety,86,Anxiety
+bleeding,88,Bleeding
+switching,89,Twitching
+weight gain,91,Weight gain
+out,86,Gout
+all,86,Fall
+all,86,Fall
+testicular pain,93,Testicular pain
+all,86,Fall
+all,86,Fall
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+ADD,86,ADHD
+out,86,Gout
+old,86,Cold
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+out,86,Gout
+Bleeding,100,Bleeding
+old,86,Cold
+all,86,Fall
+old,86,Cold
+age,86,Rage
+in eating,86,Binge eating
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+all,86,Fall
+Lymphoma,100,Lymphoma
+out,86,Gout
+out,86,Gout
+allergy,86,Allergy
+old,86,Cold
+all,86,Fall
+panic attcks,88,Panic attacks
+old,86,Cold
+oil,86,Boil
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+are infection,92,Ear infection
+infection,89,Infection
+all,86,Fall
+moodswings,86,Mood swings
+irritability,92,Irritability
+out,86,Gout
+anxiety,86,Anxiety
+out,86,Gout
+all,86,Fall
+heart attack,92,Heart attack
+heart attack,92,Heart attack
+out,86,Gout
+age,86,Rage
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+tension,86,Tension
+eating,86,Sweating
+all,86,Fall
+spina bifida,92,Spina bifida
+all,86,Fall
+sore throat,91,Sore throat
+sore throat,91,Sore throat
+sore throat,91,Sore throat
+all,86,Fall
+yeast infections,90,Yeast infection
+all,86,Fall
+out,86,Gout
+all,86,Fall
+yeast infection,93,Yeast infection
+infection,89,Infection
+oil,86,Boil
+my infection,88,Eye infection
+infection,89,Infection
+"yeast infection,",90,Yeast infection
+all,86,Fall
+out,86,Gout
+eating,86,Sweating
+all,86,Fall
+diabetes,88,Diabetes
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+all,86,Fall
+out,86,Gout
+out,86,Gout
+bleeding,88,Bleeding
+detached retina,93,Detached retina
+cataract,88,Cataract
+retinal tears,88,Retinal tear
+cataract,88,Cataract
+blurred vision,93,Blurred vision
+all,86,Fall
+"yeast infection,",90,Yeast infection
+all,86,Fall
+dry skin,88,Dry skin
+all,86,Fall
+out,86,Gout
+"sinus, pain",86,Sinus pain
+out,86,Gout
+rising,86,Bruising
+numbness,88,Numbness
+bladder spasms,89,Bladder spasm
+age,86,Rage
+fertility,90,Infertility
+Hypothyroidism,100,Hypothyroidism
+Hypothyroidism,100,Hypothyroidism
+all,86,Fall
+a fever,88,Hay fever
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+sweating,88,Sweating
+sweating,88,Sweating
+hair loss,89,Hair loss
+out,86,Gout
+sweating,88,Sweating
+confused,88,Confused
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+diabetes,88,Diabetes
+ever,89,Fever
+"irregular periods,",91,Irregular periods
+clear discharge,86,Ear discharge
+"discomfort,",86,Discomfort
+"breast pain,",87,Breast pain
+passed out,90,Passed out
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+swelling,88,Swelling
+swelling,88,Swelling
+an attack,86,Panic attack
+redness,88,Tiredness
+or swelling,87,Ear swelling
+swelling,88,Swelling
+Could,89,Cold
+bruising,88,Bruising
+"""muscle wasting""",87,Muscle wasting
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+"breast tenderness,",91,Breast tenderness
+"tenderness,",86,Tenderness
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+eating,86,Sweating
+eating,86,Sweating
+eating,86,Sweating
+eating,86,Sweating
+yeast infections,90,Yeast infection
+yeast infection),90,Yeast infection
+"yeast infections,",88,Yeast infection
+bloody discharge,94,Bloody discharge
+a burning,86,Pain burning
+burning sensation,94,Burning sensation
+yeast infection?,90,Yeast infection
+old,86,Cold
+old,86,Cold
+Delicious,89,Delirious
+heart attacks,88,Heart attack
+all,86,Fall
+Spina Bifida,92,Spina bifida
+old,86,Cold
+old,86,Cold
+out,86,Gout
+Could,89,Cold
+seizure,86,Seizure
+out,86,Gout
+out,86,Gout
+seizure,86,Seizure
+bleeding,88,Bleeding
+all,86,Fall
+old,86,Cold
+all,86,Fall
+"bacterial infections,",90,Bacterial infection
+all,86,Fall
+all,86,Fall
+psoriasis,89,Psoriasis
+all,86,Fall
+redness,88,Tiredness
+nightmare,89,Nightmare
+all,86,Fall
+whole abdomen,86,Swollen abdomen
+all,86,Fall
+nervous,86,Nervous
+old,86,Cold
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+feeling sick,92,Feeling sick
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+"weight loss,",87,Weight loss
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+shaking,86,Shaking
+all,86,Fall
+shooting pain,92,Shooting pain
+osteoarthrisis,86,Osteoarthritis
+weakness,88,Weakness
+all,86,Fall
+bleeding,88,Bleeding
+out,86,Gout
+Schizophrenia,100,Schizophrenia
+difference,91,Indifference
+Could,89,Cold
+old,86,Cold
+discomfort,90,Discomfort
+ever,89,Fever
+blisters,88,Blisters
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+all,86,Fall
+hair loss,89,Hair loss
+all,86,Fall
+out,86,Gout
+out,86,Gout
+a burning,86,Pain burning
+burning tongue,93,Burning tongue
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+all,86,Fall
+hepatitis,89,Hepatitis
+out,86,Gout
+violent,86,Violent
+shaking,86,Shaking
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+age,86,Rage
+uterine cancer,93,Uterine cancer
+all,86,Fall
+all,86,Fall
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+all,86,Fall
+weight gain,91,Weight gain
+out,86,Gout
+all,86,Fall
+nose bleed,90,Nose bleed
+Could,89,Cold
+infection,89,Infection
+infection,89,Infection
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+miscarriage),87,Miscarriage
+all,86,Fall
+age,86,Rage
+"nervousness,",87,Nervousness
+old,86,Cold
+out,86,Gout
+ADHD,100,ADHD
+all,86,Fall
+all,86,Fall
+age,86,Rage
+really ache,86,Belly ache
+"kidney stones,",89,Kidney stones
+no discomfort,86,Foot discomfort
+discomfort,90,Discomfort
+all,86,Fall
+oil,86,Boil
+miscarriage,91,Miscarriage
+out,86,Gout
+out,86,Gout
+all,86,Fall
+nauseous,88,Nauseous
+old,86,Cold
+"night sweats,",88,Night sweats
+arthritis,89,Arthritis
+palpitations,92,Palpitations
+out,86,Gout
+appendicitis,92,Appendicitis
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+diarrhea,88,Diarrhea
+dizziness,89,Dizziness
+all,86,Fall
+old,86,Cold
+all,86,Fall
+Lyme disease,100,Lyme disease
+malnutrition,92,Malnutrition
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+ovarian cysts,88,Ovarian cyst
+ovarian cysts,88,Ovarian cyst
+ovarian cysts,88,Ovarian cyst
+old,86,Cold
+all,86,Fall
+out,86,Gout
+flushed,86,Flushed
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+blisters,88,Blisters
+old,86,Cold
+old,86,Cold
+Could,89,Cold
+Could,89,Cold
+out,86,Gout
+confused,88,Confused
+all,86,Fall
+out,86,Gout
+old,86,Cold
+lethargic,89,Lethargic
+"bladder pain,",88,Bladder pain
+infection,89,Infection
+eating,86,Sweating
+diarrhea,88,Diarrhea
+all,86,Fall
+nauseated,89,Nauseated
+diarrhea,88,Diarrhea
+diarrhea,88,Diarrhea
+slight periods,89,Light periods
+all,86,Fall
+all,86,Fall
+ADHD,100,ADHD
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+ADHD,100,ADHD
+bedwetting,86,Bed wetting
+all,86,Fall
+ADHD,100,ADHD
+confused,88,Confused
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+toAggressive Behavior,90,Aggressive behavior
+old,86,Cold
+out,86,Gout
+vertigo,86,Vertigo
+old,86,Cold
+confused,88,Confused
+Cysts,89,Cyst
+vaginal infections,91,Vaginal infection
+old,86,Cold
+out,86,Gout
+out,86,Gout
+liver failure,92,Liver failure
+"liver failure,",89,Liver failure
+liver failureI,89,Liver failure
+age,86,Rage
+old,86,Cold
+all,86,Fall
+old,86,Cold
+screaming,89,Screaming
+nightmares,90,Nightmares
+out,86,Gout
+old,86,Cold
+"Screaming,",95,Screaming
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+gasping,86,Gasping
+old,86,Cold
+bleeding,88,Bleeding
+out,86,Gout
+all,86,Fall
+cataracts,89,Cataracts
+out,86,Gout
+all,86,Fall
+tingling,88,Stinging
+a dischage,87,Ear discharge
+stomach pain,92,Stomach pain
+all,86,Fall
+weight gain,91,Weight gain
+old,86,Cold
+Could,89,Cold
+appendicitis,92,Appendicitis
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+fatigue,86,Fatigue
+all,86,Fall
+dizzy spell,87,Dizzy spells
+old,86,Cold
+old,86,Cold
+all,86,Fall
+confused,88,Confused
+heart attack,92,Heart attack
+diabetes,88,Diabetes
+heart attacks,88,Heart attack
+itching,88,Twitching
+out,86,Gout
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+all,86,Fall
+swelling,88,Swelling
+all,86,Fall
+old,86,Cold
+out,86,Gout
+mood swingsI,87,Mood swings
+ovarian cancer,93,Ovarian cancer
+out,86,Gout
+itching,88,Twitching
+all,86,Fall
+yeast infection,93,Yeast infection
+infection,89,Infection
+eating,86,Sweating
+all,86,Fall
+old,86,Cold
+old,86,Cold
+diarrhea,88,Diarrhea
+all,86,Fall
+out,86,Gout
+old,86,Cold
+eating,86,Sweating
+old,86,Cold
+all,86,Fall
+fatigue,86,Fatigue
+confusion,89,Confusion
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+meningioma,90,Meningioma
+Could,89,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+numbness,88,Numbness
+ever,89,Fever
+out,86,Gout
+vision loss,91,Vision loss
+out,86,Gout
+fracture,88,Fracture
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+lung infections,90,Lung infection
+all,86,Fall
+"night terrors,",89,Night terrors
+screaming,89,Screaming
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+discomfort,90,Discomfort
+discomfort,90,Discomfort
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+Pain,100,Pain
+weakness,88,Weakness
+nightmare,89,Nightmare
+all,86,Fall
+ash,86,Rash
+ash,86,Rash
+out,86,Gout
+twitching,89,Twitching
+out,86,Gout
+ever,89,Fever
+age,86,Rage
+migraine,88,Migraine
+tension,86,Tension
+headache,88,Headache
+blacked out,91,Blacked out
+out,86,Gout
+an infection,88,Ear infection
+infection,89,Infection
+out,86,Gout
+blood pressure,88,Low blood pressure
+all,86,Fall
+old,86,Cold
+old,86,Cold
+nose bleeds,86,Nose bleed
+and ash,88,Hand rash
+ash,86,Rash
+twitching,89,Twitching
+ash,86,Rash
+all,86,Fall
+weight loss,91,Weight loss
+out,86,Gout
+Prostate cancer,100,Prostate cancer
+age,86,Rage
+age,86,Rage
+fatigue,86,Fatigue
+infection,89,Infection
+prostate cancer,93,Prostate cancer
+prostate cancer,93,Prostate cancer
+ever,89,Fever
+age,86,Rage
+age,86,Rage
+all,86,Fall
+miscarriage,91,Miscarriage
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+miscarriage,91,Miscarriage
+back pain,89,Back pain
+miscarriage,91,Miscarriage
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+age,86,Rage
+age,86,Rage
+out,86,Gout
+all,86,Fall
+kidney infection,94,Kidney infection
+infection,89,Infection
+kidney infection,94,Kidney infection
+infection,89,Infection
+out,86,Gout
+out,86,Gout
+age,86,Rage
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+confused,88,Confused
+am bleeding,87,Gum bleeding
+bleeding,88,Bleeding
+out,86,Gout
+Fibromyalgia,100,Fibromyalgia
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+screaming,89,Screaming
+out,86,Gout
+all,86,Fall
+allergic reaction,94,Allergic reaction
+out,86,Gout
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+ever,89,Fever
+seizure,86,Seizure
+out,86,Gout
+all,86,Fall
+seizure,86,Seizure
+all,86,Fall
+spider veins,87,Spider vein
+liters,86,Blisters
+eating,86,Sweating
+eating,86,Sweating
+old,86,Cold
+breast pain,91,Breast pain
+all,86,Fall
+out,86,Gout
+out,86,Gout
+numbness,88,Numbness
+numbness,88,Numbness
+all,86,Fall
+old,86,Cold
+Could,89,Cold
+confused,88,Confused
+itching,88,Twitching
+redness,88,Tiredness
+infection,89,Infection
+itching,88,Twitching
+diabetic,88,Diabetic
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+had dreams,90,Bad dreams
+screaming,89,Screaming
+rising,86,Bruising
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+violent,86,Violent
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+sickness,88,Sickness
+abdominal pains,90,Abdominal pain
+appdendicitis,88,Appendicitis
+all,86,Fall
+burping,86,Burping
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+a pain,86,Ear pain
+seizure,86,Seizure
+differences,87,Indifference
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+Pain,100,Pain
+Could,89,Cold
+old,86,Cold
+open wound,90,Open wound
+the ulceration,87,Mouth ulceration
+out,86,Gout
+a pain,86,Ear pain
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+passed out,90,Passed out
+out,86,Gout
+anxiety,86,Anxiety
+passed out,90,Passed out
+out,86,Gout
+all,86,Fall
+weight loss,91,Weight loss
+all,86,Fall
+obesity,86,Obesity
+weight loss,91,Weight loss
+infertility,91,Infertility
+all,86,Fall
+obesity,86,Obesity
+obesity,86,Obesity
+old,86,Cold
+eating,86,Sweating
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+tingling,88,Stinging
+Headaches,94,Headache
+out,86,Gout
+blurred vision,93,Blurred vision
+MS,100,MS
+vertigo,86,Vertigo
+tingling,88,Stinging
+all,86,Fall
+all,86,Fall
+inflammation,92,Inflammation
+blurred vision,93,Blurred vision
+numbness,88,Numbness
+tingling,88,Stinging
+age,86,Rage
+old,86,Cold
+regurgitation,92,Regurgitation
+all,86,Fall
+all,86,Fall
+cardiac arrest,93,Cardiac arrest
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+stinging,88,Stinging
+out,86,Gout
+old,86,Cold
+rheumatoid arthritis,95,Rheumatoid arthritis
+arthritis,89,Arthritis
+enlarge prostate,91,Enlarged prostate
+out,86,Gout
+all,86,Fall
+old,86,Cold
+vaginal pain,92,Vaginal pain
+a burning,86,Pain burning
+burning sensation,94,Burning sensation
+allergy,86,Allergy
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+yeast infections,90,Yeast infection
+all,86,Fall
+all,86,Fall
+nightmare,89,Nightmare
+Could,89,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+ear,86,Fear
+all,86,Fall
+discoloration,87,Gum discoloration
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+headache,88,Headache
+all,86,Fall
+irregular periods,94,Irregular periods
+Could,89,Cold
+hotflashes,86,Hot flashes
+nightsweats,87,Night sweats
+out,86,Gout
+out,86,Gout
+ovarian cyst,92,Ovarian cyst
+whole abdomen,86,Swollen abdomen
+out,86,Gout
+arteriosclerosis,94,Arteriosclerosis
+out,86,Gout
+After that,86,After taste
+fertility,90,Infertility
+fertility,90,Infertility
+out,86,Gout
+ever,89,Fever
+old,86,Cold
+retinal tear,92,Retinal tear
+all,86,Fall
+eye pain,88,Eye pain
+retinal tear,92,Retinal tear
+blindness,89,Blindness
+old,86,Cold
+out,86,Gout
+all,86,Fall
+dizziness,89,Dizziness
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+ear,86,Fear
+screaming,89,Screaming
+ear,86,Fear
+infection,89,Infection
+eating,86,Sweating
+ear,86,Fear
+old,86,Cold
+all,86,Fall
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+breast pain,91,Breast pain
+all,86,Fall
+all,86,Fall
+confused,88,Confused
+fainting,88,Fainting
+"Arthritis,",95,Arthritis
+out,86,Gout
+"fibromyalgia,",88,Fibromyalgia
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+difference,91,Indifference
+a fluttering,86,Heart fluttering
+ever,89,Fever
+heart attack?,88,Heart attack
+Could,89,Cold
+all,86,Fall
+eating,86,Sweating
+old,86,Cold
+ADHD,100,ADHD
+Anxiety,100,Anxiety
+all,86,Fall
+out,86,Gout
+stinging,88,Stinging
+bleeding,88,Bleeding
+out,86,Gout
+addiction,89,Addiction
+addiction,89,Addiction
+age,86,Rage
+anxiety,86,Anxiety
+After that,86,After taste
+discomfort,90,Discomfort
+all,86,Fall
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+out,86,Gout
+diarrhea,88,Diarrhea
+Could,89,Cold
+"panic attacks,",89,Panic attacks
+headache,88,Headache
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+"constipation,",88,Constipation
+cataract,88,Cataract
+"laryngitis,",86,Laryngitis
+ear,86,Fear
+Pain,100,Pain
+infection,89,Infection
+out,86,Gout
+ear,86,Fear
+all,86,Fall
+all,86,Fall
+dizziness,89,Dizziness
+and throbbing,89,Head throbbing
+old,86,Cold
+old,86,Cold
+hypothroidism,89,Hypothyroidism
+all,86,Fall
+Hyperthyroidism,90,Hypothyroidism
+Hyperthyroidism,90,Hypothyroidism
+out,86,Gout
+fatigue,86,Fatigue
+insomnia,88,Insomnia
+blood pressure,88,Low blood pressure
+all,86,Fall
+weight gain,91,Weight gain
+all,86,Fall
+"palpitations,",88,Palpitations
+mood swings,91,Mood swings
+out,86,Gout
+all,86,Fall
+weight loss,91,Weight loss
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+fatigue,86,Fatigue
+all,86,Fall
+nightmare,89,Nightmare
+yeast infections,90,Yeast infection
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+discomfort,90,Discomfort
+discomfort?,86,Discomfort
+Could,89,Cold
+all,86,Fall
+dizzy spells,92,Dizzy spells
+memory loss?,87,Memory loss
+Could,89,Cold
+aneurysm,88,Aneurysm
+age,86,Rage
+eating,86,Sweating
+choking,86,Choking
+yeast infection,93,Yeast infection
+infection,89,Infection
+yeast infection?,90,Yeast infection
+bleeding,88,Bleeding
+nervous,86,Nervous
+out,86,Gout
+all,86,Fall
+vaginal discharge,94,Vaginal discharge
+fungal infection,94,Fungal infection
+infection,89,Infection
+old,86,Cold
+sickness,88,Sickness
+all,86,Fall
+out,86,Gout
+age,86,Rage
+paralysis,89,Paralysis
+blisters,88,Blisters
+weight loss,91,Weight loss
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+detached retina,93,Detached retina
+"feeling bad,",87,Feeling bad
+art,86,Wart
+blood pressure,88,Low blood pressure
+art,86,Wart
+art,86,Wart
+art,86,Wart
+a pain,86,Ear pain
+art,86,Wart
+all,86,Fall
+age,86,Rage
+nutrition,86,Malnutrition
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+pancreatitis,92,Pancreatitis
+Could,89,Cold
+pancreatitis,92,Pancreatitis
+alcohol abuse,92,Alcohol abuse
+eating,86,Sweating
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+age,86,Rage
+age,86,Rage
+out,86,Gout
+old,86,Cold
+Cysts,89,Cyst
+old,86,Cold
+all,86,Fall
+age,86,Rage
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+tingling,88,Stinging
+all,86,Fall
+out,86,Gout
+abdominal pain,93,Abdominal pain
+weight loss,91,Weight loss
+tingling,88,Stinging
+infection,89,Infection
+vomiting,88,Vomiting
+bladder infection,94,Bladder infection
+infection,89,Infection
+blindness,89,Blindness
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+miscariage,86,Miscarriage
+out,86,Gout
+old,86,Cold
+miscarriage,91,Miscarriage
+old,86,Cold
+eating,86,Sweating
+eating,86,Sweating
+eating,86,Sweating
+old,86,Cold
+eating,86,Sweating
+eating,86,Sweating
+out,86,Gout
+old,86,Cold
+agitated,88,Agitated
+old,86,Cold
+mood swings,91,Mood swings
+old,86,Cold
+out,86,Gout
+out,86,Gout
+constipation,92,Constipation
+all,86,Fall
+all,86,Fall
+all,86,Fall
+eating,86,Sweating
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+eating,86,Sweating
+hangover,88,Hangover
+eating,86,Sweating
+swelling,88,Swelling
+nervous,86,Nervous
+eating,86,Sweating
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+Could,89,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+anxiety,86,Anxiety
+old,86,Cold
+anxiety,86,Anxiety
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+all,86,Fall
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+MS,100,MS
+heart attack,92,Heart attack
+old,86,Cold
+old,86,Cold
+all,86,Fall
+a throbbing,88,Head throbbing
+redness,88,Tiredness
+redness,88,Tiredness
+all,86,Fall
+redness,88,Tiredness
+redness,88,Tiredness
+blisters,88,Blisters
+ever,89,Fever
+War,86,Wart
+War,86,Wart
+War,86,Wart
+all,86,Fall
+all,86,Fall
+all,86,Fall
+"bacterial infection,",92,Bacterial infection
+out,86,Gout
+all,86,Fall
+out,86,Gout
+oil,86,Boil
+blue lips,89,Blue lips
+old,86,Cold
+all,86,Fall
+spaced out,90,Spaced out
+out,86,Gout
+staring,86,Staring
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+confused,88,Confused
+old,86,Cold
+itching,88,Twitching
+old,86,Cold
+all,86,Fall
+Could,89,Cold
+shooting pains,89,Shooting pain
+all,86,Fall
+back pain,89,Back pain
+out,86,Gout
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+"frequent headaches,",92,Frequent headaches
+chest pains,86,Chest pain
+"hot flashes,",87,Hot flashes
+"mood swings,",87,Mood swings
+eating,86,Sweating
+eating,86,Sweating
+hot flashes,91,Hot flashes
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+sore throat,91,Sore throat
+swelling,88,Swelling
+swelling,88,Swelling
+Diabetic,100,Diabetic
+infection,89,Infection
+an infection,88,Ear infection
+infection,89,Infection
+old,86,Cold
+infection,89,Infection
+red sore,88,Bed sore
+old,86,Cold
+Autisum,92,Autism
+out,86,Gout
+staring,86,Staring
+all,86,Fall
+eating,86,Sweating
+eating,86,Sweating
+rising,86,Bruising
+"difference,",87,Indifference
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+dehydration,91,Dehydration
+tiredness,89,Tiredness
+out,86,Gout
+out,86,Gout
+pneumonia,89,Pneumonia
+blood pressure,88,Low blood pressure
+diarrhea,88,Diarrhea
+of discomfort,86,Foot discomfort
+discomfort,90,Discomfort
+swelling,88,Swelling
+all,86,Fall
+conjuntivitis,89,Conjunctivitis
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+eye infection,92,Eye infection
+infection,89,Infection
+old,86,Cold
+to Hepatitis,86,Hepatitis
+Hepatitis,100,Hepatitis
+Hepatitis,100,Hepatitis
+to Hepatitis,86,Hepatitis
+Hepatitis,100,Hepatitis
+of Hepatitis,86,Hepatitis
+Hepatitis,100,Hepatitis
+Hepatitis,100,Hepatitis
+Hepatis,88,Hepatitis
+Hepatitis,100,Hepatitis
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+anxiety,86,Anxiety
+out,86,Gout
+vomiting,88,Vomiting
+painting,88,Fainting
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+stomach cramps,93,Stomach cramps
+Got,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+panic attack,92,Panic attack
+cataracts,89,Cataracts
+cataract,88,Cataract
+cataract,88,Cataract
+cataract,88,Cataract
+difference,91,Indifference
+cataract,88,Cataract
+cataract,88,Cataract
+cataract,88,Cataract
+nervous,86,Nervous
+eating,86,Sweating
+age,86,Rage
+age,86,Rage
+out,86,Gout
+shooting pains,89,Shooting pain
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+oil,86,Boil
+age,86,Rage
+out,86,Gout
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+bleeding,88,Bleeding
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+eating,86,Sweating
+all,86,Fall
+out,86,Gout
+eating,86,Sweating
+eating,86,Sweating
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+nauseous,88,Nauseous
+all,86,Fall
+vomiting,88,Vomiting
+diarrhea,88,Diarrhea
+a fever,88,Hay fever
+nauseous,88,Nauseous
+eating,86,Sweating
+nervous,86,Nervous
+old,86,Cold
+eating,86,Sweating
+all,86,Fall
+eating,86,Sweating
+vomiting,88,Vomiting
+out,86,Gout
+old,86,Cold
+old,86,Cold
+swelling,88,Swelling
+itching,88,Twitching
+old,86,Cold
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+out,86,Gout
+"sore throat,",87,Sore throat
+all,86,Fall
+out,86,Gout
+out,86,Gout
+confused,88,Confused
+blood pressure,88,Low blood pressure
+ovarian cyst,92,Ovarian cyst
+vaginal discharge,94,Vaginal discharge
+irregular periods,94,Irregular periods
+miscarriage?,87,Miscarriage
+all,86,Fall
+old,86,Cold
+old,86,Cold
+tingling,88,Stinging
+tingling,88,Stinging
+tingling,88,Stinging
+itching,88,Twitching
+all,86,Fall
+infection,89,Infection
+all,86,Fall
+tingling,88,Stinging
+out,86,Gout
+all,86,Fall
+tingling,88,Stinging
+all,86,Fall
+headache,88,Headache
+stomach pain,92,Stomach pain
+blisters,88,Blisters
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+out,86,Gout
+tingling,88,Stinging
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+epilepsy,88,Epilepsy
+all,86,Fall
+out,86,Gout
+out,86,Gout
+chronic pain,92,Chronic pain
+rheumatoid arthritis,95,Rheumatoid arthritis
+arthritis,89,Arthritis
+kidney failure,93,Kidney failure
+clear discharge,86,Ear discharge
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+rising,86,Bruising
+oil,86,Boil
+out,86,Gout
+oil,86,Boil
+all,86,Fall
+retinal tear,92,Retinal tear
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+out,86,Gout
+tension,86,Tension
+blood pressure,88,Low blood pressure
+dehydration?,87,Dehydration
+out,86,Gout
+anxiety,86,Anxiety
+dehydration,91,Dehydration
+all,86,Fall
+all,86,Fall
+all,86,Fall
+migraine,88,Migraine
+out,86,Gout
+all,86,Fall
+weight gain,91,Weight gain
+all,86,Fall
+ever,89,Fever
+arthritis,89,Arthritis
+out,86,Gout
+mood swings,91,Mood swings
+out,86,Gout
+panic attack,92,Panic attack
+Joint pain,100,Joint pain
+digestion,90,Indigestion
+Blood pressure,88,Blood pressure low
+eating,86,Sweating
+kidney stones,92,Kidney stones
+fertilityI,86,Infertility
+fertility,90,Infertility
+coughing,88,Coughing
+out,86,Gout
+coughing,88,Coughing
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+ever,89,Fever
+no difference,88,Indifference
+difference,91,Indifference
+frozen shoulder,93,Frozen shoulder
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+blister,86,Blister
+old,86,Cold
+old,86,Cold
+nutrition,86,Malnutrition
+all,86,Fall
+Fatigue,100,Fatigue
+out,86,Gout
+old,86,Cold
+all,86,Fall
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+arthritis,89,Arthritis
+all,86,Fall
+overdose,88,Overdose
+overdose,88,Overdose
+out,86,Gout
+all,86,Fall
+overweight,90,Overweight
+regular period,90,Irregular periods
+all,86,Fall
+rising,86,Bruising
+old,86,Cold
+out,86,Gout
+"painful intercourse,",92,Painful intercourse
+back pain,89,Back pain
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+miscarriages,87,Miscarriage
+miscarriage,91,Miscarriage
+out,86,Gout
+old,86,Cold
+exhaustion,90,Exhaustion
+headache,88,Headache
+vertigo,86,Vertigo
+vertigo,86,Vertigo
+vertigo,86,Vertigo
+unsteadiness,92,Unsteadiness
+and discomfort,90,Head discomfort
+discomfort,90,Discomfort
+vertigo,86,Vertigo
+all,86,Fall
+"exhaustion,",86,Exhaustion
+dizziness,89,Dizziness
+all,86,Fall
+all,86,Fall
+all,86,Fall
+blood pressure,88,Low blood pressure
+Could,89,Cold
+dehydration,91,Dehydration
+exhaustion,90,Exhaustion
+Could,89,Cold
+vertigo,86,Vertigo
+sinus infection,93,Sinus infection
+infection,89,Infection
+ear,86,Fear
+vertigo,86,Vertigo
+headache,88,Headache
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+ADHD,100,ADHD
+color vision,87,Poor vision
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+diabetes,88,Diabetes
+blood pressure,88,Low blood pressure
+trembling,89,Trembling
+weird feeling,92,Weird feeling
+a fever,88,Hay fever
+Could,89,Cold
+tuberculosis,92,Tuberculosis
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+gastroenteritis,93,Gastroenteritis
+ever,89,Fever
+regurgitation,92,Regurgitation
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+spaced out,90,Spaced out
+out,86,Gout
+nervous,86,Nervous
+panic attacks,92,Panic attacks
+all,86,Fall
+sweating,88,Sweating
+spaced out,90,Spaced out
+out,86,Gout
+panic attacks?,89,Panic attacks
+panic attacks,92,Panic attacks
+all,86,Fall
+double vision,92,Double vision
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+stomach aches,88,Stomach ache
+headache,88,Headache
+old,86,Cold
+eating,86,Sweating
+stomach aches,88,Stomach ache
+nauseous,88,Nauseous
+out,86,Gout
+out,86,Gout
+out,86,Gout
+any inflammation,88,Eye inflammation
+inflammation,92,Inflammation
+abdominal discomfort,95,Abdominal discomfort
+discomfort,90,Discomfort
+abdominal discomfort,95,Abdominal discomfort
+discomfort,90,Discomfort
+fatigue,86,Fatigue
+dizziness,89,Dizziness
+headache,88,Headache
+light headedness,90,Lightheadedness
+out,86,Gout
+violent,86,Violent
+of discomfort,86,Foot discomfort
+discomfort,90,Discomfort
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+tooth abscess,92,Tooth abscess
+abscess,86,Abscess
+out,86,Gout
+bleeding,88,Bleeding
+old,86,Cold
+blood pressure,88,Low blood pressure
+all,86,Fall
+anxiety,86,Anxiety
+mental disorder,93,Mental disorder
+sore throat,91,Sore throat
+Tonsillitis,100,Tonsillitis
+"Tonsillitis,",96,Tonsillitis
+sore throat,91,Sore throat
+ever,89,Fever
+yeast infection,93,Yeast infection
+infection,89,Infection
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+confused,88,Confused
+sore throat?,87,Sore throat
+all,86,Fall
+old,86,Cold
+out,86,Gout
+trembling,89,Trembling
+out,86,Gout
+out,86,Gout
+chest pain,90,Chest pain
+ovarian cysts,88,Ovarian cyst
+out,86,Gout
+pinching sensation,89,Spinning sensation
+yeast infections,90,Yeast infection
+oil,86,Boil
+oil,86,Boil
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+miscarriage),87,Miscarriage
+out,86,Gout
+infertility,91,Infertility
+out,86,Gout
+fertility,90,Infertility
+light-headed,92,Light-headed
+ever,89,Fever
+Breast in,90,Breast pain
+all,86,Fall
+out,86,Gout
+Overweight,100,Overweight
+a pain,86,Ear pain
+out,86,Gout
+a pain,86,Ear pain
+blindness,89,Blindness
+epilepsy,88,Epilepsy
+schizophrenia,92,Schizophrenia
+old,86,Cold
+blindness,89,Blindness
+auditory hullucinations,91,Auditory hallucinations
+hullucinations,86,Hallucinations
+blindness,89,Blindness
+all,86,Fall
+all,86,Fall
+kidney stones,92,Kidney stones
+of deficiency,86,Iron deficiency
+all,86,Fall
+iron deficency,90,Iron deficiency
+iron deficeny,86,Iron deficiency
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+old,86,Cold
+stiffness,89,Stiffness
+old,86,Cold
+all,86,Fall
+frozen shoulder,93,Frozen shoulder
+all,86,Fall
+old,86,Cold
+old,86,Cold
+violent,86,Violent
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+out,86,Gout
+eating,86,Sweating
+nutrition,86,Malnutrition
+patience,89,Impatience
+out,86,Gout
+old,86,Cold
+palpitation,87,Palpitations
+palpitations,92,Palpitations
+all,86,Fall
+frozen shoulder,93,Frozen shoulder
+arthritis,89,Arthritis
+out,86,Gout
+all,86,Fall
+all,86,Fall
+ADHD,100,ADHD
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+swelling,88,Swelling
+all,86,Fall
+"inflammation,",88,Inflammation
+all,86,Fall
+out,86,Gout
+old,86,Cold
+age,86,Rage
+out,86,Gout
+out,86,Gout
+all,86,Fall
+eating,86,Sweating
+coughing,88,Coughing
+coughing,88,Coughing
+all,86,Fall
+Asthma,100,Asthma
+pneumonia,89,Pneumonia
+Cough,100,Cough
+sickness,88,Sickness
+Asthma,100,Asthma
+Could,89,Cold
+old,86,Cold
+pneumonia,89,Pneumonia
+all,86,Fall
+all,86,Fall
+out,86,Gout
+headache,88,Headache
+nervous,86,Nervous
+swelling,88,Swelling
+all,86,Fall
+fertility,90,Infertility
+fertility,90,Infertility
+fertility,90,Infertility
+all,86,Fall
+tinnitus,88,Tinnitus
+dizziness,89,Dizziness
+MS,100,MS
+Lyme's disease,92,Lyme disease
+blood pressure,88,Low blood pressure
+out,86,Gout
+out,86,Gout
+frequent headaches,94,Frequent headaches
+Pain,100,Pain
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+Muscle tightness-,97,Muscle tightness
+fatigue,86,Fatigue
+oil,86,Boil
+all,86,Fall
+confused,88,Confused
+age,86,Rage
+age,86,Rage
+miscarriage?,87,Miscarriage
+weightloss,86,Weight loss
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+bleeding,88,Bleeding
+out,86,Gout
+miscarriage,91,Miscarriage
+out,86,Gout
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+all,86,Fall
+passed out,90,Passed out
+out,86,Gout
+old,86,Cold
+spina bifida,92,Spina bifida
+old,86,Cold
+arthritis,89,Arthritis
+stiffness,89,Stiffness
+arthritis,89,Arthritis
+ever,89,Fever
+swelling,88,Swelling
+swelling,88,Swelling
+swelling,88,Swelling
+out,86,Gout
+swelling,88,Swelling
+swelling,88,Swelling
+confused,88,Confused
+old,86,Cold
+itching,88,Twitching
+itching,88,Twitching
+itchy skin,90,Itchy skin
+ever,89,Fever
+all,86,Fall
+viginal discharge,88,Vaginal discharge
+itching,88,Twitching
+redness,88,Tiredness
+dry skin,88,Dry skin
+all,86,Fall
+old,86,Cold
+old,86,Cold
+jaundice,88,Jaundice
+all,86,Fall
+Corn,89,Corns
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+a burning,86,Pain burning
+all,86,Fall
+all,86,Fall
+out,86,Gout
+a fever,88,Hay fever
+headache,88,Headache
+all,86,Fall
+out,86,Gout
+out,86,Gout
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+ever,89,Fever
+confusion,89,Confusion
+out,86,Gout
+difference,91,Indifference
+ever,89,Fever
+hypertension,92,Hypertension
+old,86,Cold
+eating,86,Sweating
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+redness,88,Tiredness
+all,86,Fall
+Confuse,93,Confused
+Hernia,100,Hernia
+all,86,Fall
+"allergic reaction,",91,Allergic reaction
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+diabetes,88,Diabetes
+eating,86,Sweating
+differece,86,Indifference
+all,86,Fall
+and discomfort,90,Head discomfort
+discomfort,90,Discomfort
+"endometrial canncer,",89,Endometrial cancer
+difference,91,Indifference
+Could,89,Cold
+Could,89,Cold
+ovarian cancer,93,Ovarian cancer
+out,86,Gout
+discomfort,90,Discomfort
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+thaking,86,Shaking
+old,86,Cold
+age,86,Rage
+old,86,Cold
+all,86,Fall
+bleeding,88,Bleeding
+"weight, gain",87,Weight gain
+old,86,Cold
+out,86,Gout
+by bleeding,87,Eye bleeding
+bleeding,88,Bleeding
+all,86,Fall
+bleeding,88,Bleeding
+confused,88,Confused
+all,86,Fall
+stomach ulcers,89,Stomach ulcer
+gastritis,89,Gastritis
+gastritis,89,Gastritis
+all,86,Fall
+heals,91,Wheals
+infection,89,Infection
+tension,86,Tension
+irritable,89,Irritable
+ear,86,Fear
+anxiety,86,Anxiety
+all,86,Fall
+old,86,Cold
+cataracts,89,Cataracts
+astigmatism,91,Astigmatism
+all,86,Fall
+a discharge,92,Ear discharge
+out,86,Gout
+irregular periods,94,Irregular periods
+miscarriages,87,Miscarriage
+weight loss,91,Weight loss
+weight loss?,87,Weight loss
+overweight,90,Overweight
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+old,86,Cold
+bleeding,88,Bleeding
+breast cancer,92,Breast cancer
+old,86,Cold
+out,86,Gout
+"feeling sick,",88,Feeling sick
+old,86,Cold
+breast cysts,87,Breast cyst
+ever,89,Fever
+sickness,88,Sickness
+fatigue,86,Fatigue
+itching,88,Twitching
+old,86,Cold
+out,86,Gout
+difference,91,Indifference
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+ADHD,100,ADHD
+mood swings,91,Mood swings
+"ADHD,",89,ADHD
+out,86,Gout
+ADHD?,89,ADHD
+old,86,Cold
+swelling,88,Swelling
+discomfort,90,Discomfort
+all,86,Fall
+swelling,88,Swelling
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+nutrition,86,Malnutrition
+Could,89,Cold
+all,86,Fall
+bleeding,88,Bleeding
+all,86,Fall
+out,86,Gout
+fibromyalgia,92,Fibromyalgia
+fibromyalgia,92,Fibromyalgia
+incontinence,92,Incontinence
+normal stool,89,Abnormal stools
+old,86,Cold
+all,86,Fall
+ale,86,Pale
+all,86,Fall
+ever,89,Fever
+ever,89,Fever
+ever,89,Fever
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+addiction,89,Addiction
+ever,89,Fever
+rising,86,Bruising
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+old,86,Cold
+weakness,88,Weakness
+twitching,89,Twitching
+all,86,Fall
+constipation,92,Constipation
+Lumbar spine,87,Lumbar pain
+out,86,Gout
+all,86,Fall
+out,86,Gout
+gastritis,89,Gastritis
+gastritis,89,Gastritis
+out,86,Gout
+out,86,Gout
+gastritis,89,Gastritis
+all,86,Fall
+feeling sick,92,Feeling sick
+an attack,86,Panic attack
+all,86,Fall
+cataracts,89,Cataracts
+all,86,Fall
+astigmatism,91,Astigmatism
+lymphoma,88,Lymphoma
+nauseous,88,Nauseous
+cataract,88,Cataract
+photophobia,91,Photophobia
+all,86,Fall
+miscarriage,91,Miscarriage
+all,86,Fall
+sweating,88,Sweating
+allergic reaction,94,Allergic reaction
+Infection,100,Infection
+infection,89,Infection
+infection,89,Infection
+all,86,Fall
+rising,86,Bruising
+heartburn,89,Heartburn
+eating,86,Sweating
+old,86,Cold
+coughing,88,Coughing
+blood pressure,88,Low blood pressure
+hyper active,87,Hyperactive
+old,86,Cold
+all,86,Fall
+migraine,88,Migraine
+blurred vision,93,Blurred vision
+migraine,88,Migraine
+all,86,Fall
+confused,88,Confused
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+"aggression,",86,Aggression
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+redness,88,Tiredness
+ear,86,Fear
+Headaches,94,Headache
+all,86,Fall
+"Faint,",91,Faint
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+sore throat,91,Sore throat
+old,86,Cold
+fertility,90,Infertility
+in infection,92,Skin infection
+infection,89,Infection
+the infection,86,Chest infection
+infection,89,Infection
+shaking,86,Shaking
+MS,100,MS
+MS,100,MS
+"double vision,",89,Double vision
+all,86,Fall
+MS,100,MS
+blisters,88,Blisters
+gum bleeding,92,Gum bleeding
+bleeding,88,Bleeding
+constipation,92,Constipation
+gum bleeding,92,Gum bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+my discharge,88,Eye discharge
+emotional problems,94,Emotional problems
+"aggressiveness,",90,Aggressiveness
+pelvic pain,91,Pelvic pain
+appendicitis,92,Appendicitis
+Pain,100,Pain
+appendicitis,92,Appendicitis
+kidney stones,92,Kidney stones
+out,86,Gout
+all,86,Fall
+shooting pain,92,Shooting pain
+"kidney stones,",89,Kidney stones
+out,86,Gout
+all,86,Fall
+all,86,Fall
+age,86,Rage
+age,86,Rage
+all,86,Fall
+all,86,Fall
+misscarriage,87,Miscarriage
+out,86,Gout
+all,86,Fall
+miscarriage,91,Miscarriage
+eating,86,Sweating
+out,86,Gout
+eating,86,Sweating
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+miscarriage,91,Miscarriage
+bleeding,88,Bleeding
+confused,88,Confused
+old,86,Cold
+nervous,86,Nervous
+me bleeding,87,Eye bleeding
+bleeding,88,Bleeding
+abdominal pain,93,Abdominal pain
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+soft stools,91,Soft stools
+appendicitis,92,Appendicitis
+all,86,Fall
+all,86,Fall
+bleeding,88,Bleeding
+old,86,Cold
+seizure,86,Seizure
+screaming,89,Screaming
+seizure,86,Seizure
+seizure,86,Seizure
+out,86,Gout
+epilepsy,88,Epilepsy
+old,86,Cold
+ADHD,100,ADHD
+old,86,Cold
+allergy,86,Allergy
+all,86,Fall
+out,86,Gout
+confused,88,Confused
+out,86,Gout
+old,86,Cold
+overweight,90,Overweight
+age,86,Rage
+eating,86,Sweating
+weight loss,91,Weight loss
+bleeding,88,Bleeding
+hypertension,92,Hypertension
+all,86,Fall
+age,86,Rage
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+old,86,Cold
+age,86,Rage
+all,86,Fall
+all,86,Fall
+out,86,Gout
+breast cancer,92,Breast cancer
+old,86,Cold
+confused,88,Confused
+confused,88,Confused
+inflammation,92,Inflammation
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+a pain,86,Ear pain
+all,86,Fall
+all,86,Fall
+fertility,90,Infertility
+fertility,90,Infertility
+all,86,Fall
+fertility,90,Infertility
+age,86,Rage
+back pain,89,Back pain
+all,86,Fall
+out,86,Gout
+rising,86,Bruising
+War,86,Wart
+old,86,Cold
+ear,86,Fear
+out,86,Gout
+ever,89,Fever
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+difference,91,Indifference
+old,86,Cold
+bleeding,88,Bleeding
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+passed out,90,Passed out
+out,86,Gout
+out,86,Gout
+eye disease,87,Lyme disease
+all,86,Fall
+all,86,Fall
+out,86,Gout
+abscess,86,Abscess
+age,86,Rage
+out,86,Gout
+age,86,Rage
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+Drooping,88,Drooling
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+age,86,Rage
+Cancer,100,Cancer
+old,86,Cold
+bone cancer,91,Bone cancer
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+violent,86,Violent
+out,86,Gout
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+fertility,90,Infertility
+swelling,88,Swelling
+astigmatism,91,Astigmatism
+old,86,Cold
+my patience,86,Impatience
+patience,89,Impatience
+out,86,Gout
+difference?,87,Indifference
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+unconsciousness,93,Unconsciousness
+schizophrenia,92,Schizophrenia
+impotence,89,Impotence
+all,86,Fall
+old,86,Cold
+all,86,Fall
+a infection,92,Ear infection
+infection,89,Infection
+weight loss,91,Weight loss
+all,86,Fall
+union,91,Bunion
+all,86,Fall
+screaming,89,Screaming
+all,86,Fall
+all,86,Fall
+all,86,Fall
+miscarriage,91,Miscarriage
+swelling,88,Swelling
+redness,88,Tiredness
+"astigmatism,",87,Astigmatism
+back injury,91,Back injury
+age,86,Rage
+hair loss,89,Hair loss
+hair loss,89,Hair loss
+hair loss,89,Hair loss
+out,86,Gout
+retina tear,87,Retinal tear
+and pressure,88,Head pressure
+bleeding,88,Bleeding
+old,86,Cold
+blindness,89,Blindness
+"vision loss,",87,Vision loss
+cataract,88,Cataract
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+pelvic pain,91,Pelvic pain
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+breast cancer,92,Breast cancer
+bleeding,88,Bleeding
+pelvic pain,91,Pelvic pain
+like symptoms,87,Flu-like symptoms
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+swelling,88,Swelling
+swelling,88,Swelling
+swelling,88,Swelling
+old,86,Cold
+screaming,89,Screaming
+all,86,Fall
+infection,89,Infection
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+an infection,88,Ear infection
+infection,89,Infection
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+burping,86,Burping
+feeling unwell,93,Feeling unwell
+age,86,Rage
+old,86,Cold
+all,86,Fall
+ear,86,Fear
+old,86,Cold
+coughing,88,Coughing
+old,86,Cold
+all,86,Fall
+muscle pain,91,Muscle pain
+out,86,Gout
+infection,89,Infection
+infection,89,Infection
+ear,86,Fear
+nauseous,88,Nauseous
+old,86,Cold
+all,86,Fall
+blurred vision,93,Blurred vision
+old,86,Cold
+old,86,Cold
+all,86,Fall
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+ever,89,Fever
+old,86,Cold
+malabsorption?,89,Malabsorption
+a malabsorption,86,Malabsorption
+malabsorption,92,Malabsorption
+swelling,88,Swelling
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+old,86,Cold
+breast cancer,92,Breast cancer
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+ever,89,Fever
+cold sores,90,Cold sores
+old,86,Cold
+double vision,92,Double vision
+double vision,92,Double vision
+blood pressure,88,Low blood pressure
+ever,89,Fever
+irregular period,91,Irregular periods
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+"weight loss,",87,Weight loss
+weight gain,91,Weight gain
+out,86,Gout
+stretch marks,92,Stretch marks
+out,86,Gout
+out,86,Gout
+kidney cancer,92,Kidney cancer
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+Miscarriage,100,Miscarriage
+bladder infection,94,Bladder infection
+infection,89,Infection
+blurred vision,93,Blurred vision
+nauseous,88,Nauseous
+dark discharge,89,Ear discharge
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+thrombosis,90,Thrombosis
+diabetes,88,Diabetes
+double vision,92,Double vision
+out,86,Gout
+ever,89,Fever
+hot flashes,91,Hot flashes
+all,86,Fall
+all,86,Fall
+confused,88,Confused
+all,86,Fall
+out,86,Gout
+eating,86,Sweating
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+all,86,Fall
+Could,89,Cold
+lyme disease,92,Lyme disease
+fatigue,86,Fatigue
+back pain,89,Back pain
+all,86,Fall
+a burning,86,Pain burning
+burning sensation,94,Burning sensation
+Pain,100,Pain
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+ear,86,Fear
+throat infection,94,Throat infection
+infection,89,Infection
+all,86,Fall
+bleeding,88,Bleeding
+tension,86,Tension
+all,86,Fall
+anxiety,86,Anxiety
+hoarseness,90,Hoarseness
+difficulty breathing,95,Difficulty breathing
+MS,100,MS
+hoarseness,90,Hoarseness
+miscarrige,86,Miscarriage
+bleeding,88,Bleeding
+all,86,Fall
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+headache,88,Headache
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+miscarriages,87,Miscarriage
+nervous,86,Nervous
+old,86,Cold
+all,86,Fall
+age,86,Rage
+difficulty seeing,89,Difficulty sleeping
+all,86,Fall
+all,86,Fall
+nervous,86,Nervous
+blister,86,Blister
+old,86,Cold
+all,86,Fall
+all,86,Fall
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+eating,86,Sweating
+old,86,Cold
+weight gain,91,Weight gain
+all,86,Fall
+out,86,Gout
+itching,88,Twitching
+all,86,Fall
+itching,88,Twitching
+all,86,Fall
+arrhythmias,86,Arrhythmia
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+switching,89,Twitching
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+nervous,86,Nervous
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+cataract,88,Cataract
+"bloated feeling,",90,Bloated feeling
+heartburn,89,Heartburn
+bleeding,88,Bleeding
+all,86,Fall
+all,86,Fall
+old,86,Cold
+her discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+Cancer,100,Cancer
+and fractured,92,Hand fracture
+and fracture,96,Hand fracture
+fracture,88,Fracture
+migraine,88,Migraine
+numbness,88,Numbness
+tingling,88,Stinging
+migraine,88,Migraine
+Meaning,86,Moaning
+numbness,88,Numbness
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+age,86,Rage
+age,86,Rage
+old,86,Cold
+out,86,Gout
+frustration,91,Frustration
+all,86,Fall
+all,86,Fall
+all,86,Fall
+age,86,Rage
+frustration,91,Frustration
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+dehydration,91,Dehydration
+Anxiety,100,Anxiety
+Panic Attacks,92,Panic attacks
+old,86,Cold
+old,86,Cold
+age,86,Rage
+all,86,Fall
+Could,89,Cold
+overweight,90,Overweight
+anxiety,86,Anxiety
+all,86,Fall
+ADHD,100,ADHD
+ADHD?,89,ADHD
+weight loss,91,Weight loss
+eating,86,Sweating
+eating,86,Sweating
+all,86,Fall
+weight loss,91,Weight loss
+old,86,Cold
+age,86,Rage
+overweight,90,Overweight
+old,86,Cold
+discolouration,88,Gum discolouration
+a pain,86,Ear pain
+tiredness,89,Tiredness
+old,86,Cold
+out,86,Gout
+shingles,88,Shingles
+all,86,Fall
+all,86,Fall
+old,86,Cold
+ADHD,100,ADHD
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+abdominal pain,93,Abdominal pain
+ever,89,Fever
+all,86,Fall
+feeling sick,92,Feeling sick
+bleeding,88,Bleeding
+Could,89,Cold
+all,86,Fall
+old,86,Cold
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+incoherent,90,Incoherent
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+Got,86,Gout
+ever,89,Fever
+burning sensation,94,Burning sensation
+Got,86,Gout
+itching,88,Twitching
+vaginal discharge,94,Vaginal discharge
+itching,88,Twitching
+yeast infection,93,Yeast infection
+infection,89,Infection
+Got,86,Gout
+itching,88,Twitching
+itching,88,Twitching
+and burning,87,Pain burning
+psoriasis,89,Psoriasis
+yeast infection,93,Yeast infection
+infection,89,Infection
+nightmare,89,Nightmare
+all,86,Fall
+a discomfort,92,Ear discomfort
+discomfort,90,Discomfort
+old,86,Cold
+yeast infection,93,Yeast infection
+infection,89,Infection
+psoriasis,89,Psoriasis
+all,86,Fall
+blood pressure,88,Low blood pressure
+out,86,Gout
+Could,89,Cold
+all,86,Fall
+weight loss,91,Weight loss
+nutrition,86,Malnutrition
+all,86,Fall
+oil,86,Boil
+bleeding,88,Bleeding
+a Miscarriage,92,Miscarriage
+Miscarriage,100,Miscarriage
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+blood pressure,88,Low blood pressure
+bleeding,88,Bleeding
+awful periods,86,Painful periods
+blood pressure,88,Low blood pressure
+out,86,Gout
+Could,89,Cold
+ever,89,Fever
+infertility,91,Infertility
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+nervous,86,Nervous
+old,86,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+ear,86,Fear
+eating,86,Sweating
+Could,89,Cold
+Could,89,Cold
+Could,89,Cold
+old,86,Cold
+all,86,Fall
+discomfort,90,Discomfort
+all,86,Fall
+lightheaded,87,Light-headed
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+headache,88,Headache
+eye injury,90,Eye injury
+double vision,92,Double vision
+head injury,91,Head injury
+head injury,91,Head injury
+Could,89,Cold
+head injury?,87,Head injury
+out,86,Gout
+all,86,Fall
+screaming,89,Screaming
+all,86,Fall
+age,86,Rage
+old,86,Cold
+out,86,Gout
+old,86,Cold
+screaming,89,Screaming
+old,86,Cold
+old,86,Cold
+nervous,86,Nervous
+ever,89,Fever
+out,86,Gout
+screaming,89,Screaming
+old,86,Cold
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+buring sensation,91,Burning sensation
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+eating,86,Sweating
+old,86,Cold
+all,86,Fall
+incontinence,92,Incontinence
+all,86,Fall
+out,86,Gout
+fracture,88,Fracture
+age,86,Rage
+out,86,Gout
+yeast infection,93,Yeast infection
+infection,89,Infection
+my discharge,88,Eye discharge
+discomfortI,86,Discomfort
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+all,86,Fall
+stinging,88,Stinging
+redness,88,Tiredness
+regular period,90,Irregular periods
+out,86,Gout
+all,86,Fall
+out,86,Gout
+brain tumor,91,Brain tumor
+stomach pain,92,Stomach pain
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+miscarriage,91,Miscarriage
+nervous,86,Nervous
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+diarrhea,88,Diarrhea
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+"night sweats,",88,Night sweats
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+aortic aneurysm,93,Aortic aneurysm
+aneurysm,88,Aneurysm
+headache,88,Headache
+out,86,Gout
+yeast infection,93,Yeast infection
+infection,89,Infection
+bleeding,88,Bleeding
+stinging,88,Stinging
+ever,89,Fever
+out,86,Gout
+Could,89,Cold
+emotional problem?,89,Emotional problems
+sagging,86,Gagging
+out,86,Gout
+out,86,Gout
+old,86,Cold
+old,86,Cold
+knee pain,89,Knee pain
+Could,89,Cold
+tingling,88,Stinging
+all,86,Fall
+all,86,Fall
+tingling,88,Stinging
+"discomfort,",86,Discomfort
+stinging,88,Stinging
+blister,86,Blister
+Could,89,Cold
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+old,86,Cold
+weight loss,91,Weight loss
+eating,86,Sweating
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+Could,89,Cold
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+ever,89,Fever
+allergic reaction,94,Allergic reaction
+out,86,Gout
+miscarriage?,87,Miscarriage
+regular period,90,Irregular periods
+all,86,Fall
+all,86,Fall
+painful intercourse???,88,Painful intercourse
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+out,86,Gout
+out,86,Gout
+out,86,Gout
+nauseous,88,Nauseous
+out,86,Gout
+out,86,Gout
+Could,89,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+hair loss,89,Hair loss
+Anger,100,Anger
+bad breath,90,Bad breath
+all,86,Fall
+irritable,89,Irritable
+"overweight,",86,Overweight
+out,86,Gout
+old,86,Cold
+swelling,88,Swelling
+redness,88,Tiredness
+all,86,Fall
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+Could,89,Cold
+eating,86,Sweating
+all,86,Fall
+bruising,88,Bruising
+swelling,88,Swelling
+swelling,88,Swelling
+all,86,Fall
+nagging,86,Gagging
+all,86,Fall
+Asthma,100,Asthma
+Asthma,100,Asthma
+Asthma,100,Asthma
+out,86,Gout
+out,86,Gout
+on Infertility,88,Infertility
+Infertility,100,Infertility
+infertility,91,Infertility
+out,86,Gout
+out,86,Gout
+infertility,91,Infertility
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+eating,86,Sweating
+all,86,Fall
+blurred vision,93,Blurred vision
+out,86,Gout
+out,86,Gout
+a burning,86,Pain burning
+infection,89,Infection
+old,86,Cold
+all,86,Fall
+diabetes,88,Diabetes
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+Got,86,Gout
+ear,86,Fear
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+discomfort,90,Discomfort
+all,86,Fall
+all,86,Fall
+nagging,86,Gagging
+out,86,Gout
+"respiratory distress,",93,Respiratory distress
+vomiting,88,Vomiting
+diarrhea,88,Diarrhea
+all,86,Fall
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+breast cancerIf,86,Breast cancer
+"breast cancer,",89,Breast cancer
+all,86,Fall
+out,86,Gout
+breast cancer,92,Breast cancer
+nervous,86,Nervous
+"breast cancer,",89,Breast cancer
+breast cancer,92,Breast cancer
+nervous,86,Nervous
+a burning,86,Pain burning
+burning sensation,94,Burning sensation
+Could,89,Cold
+all,86,Fall
+ever,89,Fever
+fatigue,86,Fatigue
+ever,89,Fever
+hypothyroidism,93,Hypothyroidism
+"Dizziness,",95,Dizziness
+visual disturbances,92,Visual disturbance
+Back in,88,Back pain
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+old,86,Cold
+cataract,88,Cataract
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+hot flashes,91,Hot flashes
+diarrhea,88,Diarrhea
+drug interactions,91,Drug interaction
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+bad mood,88,Bad mood
+mood swings,91,Mood swings
+hot flushes,91,Hot flushes
+hot flushes,91,Hot flushes
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+feeling sick,92,Feeling sick
+nose bleed,90,Nose bleed
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+shooting pains,89,Shooting pain
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+confused,88,Confused
+out,86,Gout
+confused,88,Confused
+bleeding,88,Bleeding
+all,86,Fall
+out,86,Gout
+tingling,88,Stinging
+ever,89,Fever
+ever,89,Fever
+back pain,89,Back pain
+and infection,86,Wound infection
+infection,89,Infection
+all,86,Fall
+all,86,Fall
+all,86,Fall
+cataracts,89,Cataracts
+conjunctavitis,86,Conjunctivitis
+dry eyes,88,Dry eyes
+all,86,Fall
+old,86,Cold
+age,86,Rage
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+ADD,86,ADHD
+out,86,Gout
+out,86,Gout
+old,86,Cold
+old,86,Cold
+age,86,Rage
+out,86,Gout
+out,86,Gout
+all,86,Fall
+shingles,88,Shingles
+out,86,Gout
+out,86,Gout
+out,86,Gout
+shingles,88,Shingles
+out,86,Gout
+out,86,Gout
+panic attacks,92,Panic attacks
+Shingles,100,Shingles
+shingles,88,Shingles
+out,86,Gout
+shingles,88,Shingles
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+aneurysm,88,Aneurysm
+an infection,88,Ear infection
+infection,89,Infection
+infection,89,Infection
+Could,89,Cold
+the infection,86,Chest infection
+infection,89,Infection
+irregular periods,94,Irregular periods
+out,86,Gout
+out,86,Gout
+Could,89,Cold
+out,86,Gout
+irregular periodsi,91,Irregular periods
+all,86,Fall
+out,86,Gout
+stomach pain,92,Stomach pain
+back pain,89,Back pain
+Could,89,Cold
+old,86,Cold
+Shooting pain,100,Shooting pain
+out,86,Gout
+out,86,Gout
+headache,88,Headache
+out,86,Gout
+eating,86,Sweating
+bleeding,88,Bleeding
+miscarriage,91,Miscarriage
+out,86,Gout
+all,86,Fall
+all,86,Fall
+fertility,90,Infertility
+fertility,90,Infertility
+"fertility,",86,Infertility
+oil,86,Boil
+out,86,Gout
+fertility,90,Infertility
+miscarriage,91,Miscarriage
+out,86,Gout
+all,86,Fall
+all,86,Fall
+miscarriage,91,Miscarriage
+runny nose,90,Runny nose
+no difference,88,Indifference
+difference,91,Indifference
+drowsiness,90,Drowsiness
+out,86,Gout
+Sleep,91,Sleepy
+Infection,100,Infection
+The infection,86,Chest infection
+infection,89,Infection
+all,86,Fall
+all,86,Fall
+a pain,86,Ear pain
+all,86,Fall
+jaw fracture?,88,Jaw fracture
+old,86,Cold
+all,86,Fall
+blister,86,Blister
+blister,86,Blister
+eating,86,Sweating
+painful urination,94,Painful urination
+out,86,Gout
+all,86,Fall
+out,86,Gout
+coughing,88,Coughing
+coughing,88,Coughing
+swelling,88,Swelling
+sore throat,91,Sore throat
+an infection,88,Ear infection
+infection,89,Infection
+Got,86,Gout
+tenderness,90,Tenderness
+Sciatic,93,Sciatica
+old,86,Cold
+all,86,Fall
+itching,88,Twitching
+old,86,Cold
+all,86,Fall
+sweating,88,Sweating
+heart attack),88,Heart attack
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+no discomfort,86,Foot discomfort
+discomfort,90,Discomfort
+headache,88,Headache
+night sweats,92,Night sweats
+infection,89,Infection
+the infection,86,Chest infection
+infection,89,Infection
+my infection,88,Eye infection
+infection,89,Infection
+Could,89,Cold
+Could,89,Cold
+hypothyroidism,93,Hypothyroidism
+all,86,Fall
+out,86,Gout
+difference,91,Indifference
+out,86,Gout
+all,86,Fall
+blood pressure,88,Low blood pressure
+panic attacks,92,Panic attacks
+blood pressure,88,Low blood pressure
+chest pains,86,Chest pain
+old,86,Cold
+ever,89,Fever
+Could,89,Cold
+sickness,88,Sickness
+Could,89,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+numbness,88,Numbness
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+fight terrorism,86,Night terrors
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+leaked out,86,Blacked out
+out,86,Gout
+difference,91,Indifference
+all,86,Fall
+out,86,Gout
+all,86,Fall
+cataracts,89,Cataracts
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+burning sensation,94,Burning sensation
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+stomache pain,88,Stomach pain
+kidney stone,92,Kidney stone
+all,86,Fall
+out,86,Gout
+all,86,Fall
+olvarian cyst,88,Ovarian cyst
+out,86,Gout
+stomache pain,88,Stomach pain
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+age,86,Rage
+all,86,Fall
+all,86,Fall
+old,86,Cold
+a mood,86,Bad mood
+Could,89,Cold
+old,86,Cold
+age,86,Rage
+all,86,Fall
+all,86,Fall
+numbness,88,Numbness
+all,86,Fall
+tingling,88,Stinging
+out,86,Gout
+diabetes,88,Diabetes
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+age,86,Rage
+old,86,Cold
+breast cancer,92,Breast cancer
+shingles,88,Shingles
+vomiting,88,Vomiting
+breast cancer,92,Breast cancer
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+numbness,88,Numbness
+allergy,86,Allergy
+allergy,86,Allergy
+regular period,90,Irregular periods
+heavy period,88,Heavy periods
+heavy period,88,Heavy periods
+out,86,Gout
+bleeding,88,Bleeding
+nauseous,88,Nauseous
+nauseous,88,Nauseous
+Could,89,Cold
+bleeding,88,Bleeding
+discomfort,90,Discomfort
+all,86,Fall
+out,86,Gout
+out,86,Gout
+Could,89,Cold
+old,86,Cold
+"ADHD,",89,ADHD
+out,86,Gout
+headache,88,Headache
+old,86,Cold
+out,86,Gout
+Starting,93,Staring
+an infection,88,Ear infection
+infection,89,Infection
+yeast infeciton,87,Yeast infection
+all,86,Fall
+bleeding,88,Bleeding
+ever,89,Fever
+yeast infection,93,Yeast infection
+infection,89,Infection
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+normal behavoiur,88,Abnormal behaviour
+old,86,Cold
+all,86,Fall
+night terrors,92,Night terrors
+out,86,Gout
+age,86,Rage
+out,86,Gout
+confused,88,Confused
+old,86,Cold
+old,86,Cold
+Cancer,100,Cancer
+Breast Cancer,92,Breast cancer
+Cancer,100,Cancer
+Spain,91,Sprain
+old,86,Cold
+all,86,Fall
+"vision loss,",87,Vision loss
+fertility,90,Infertility
+"lung cancer""",87,Lung cancer
+lymphoma,88,Lymphoma
+Breast Cancer,92,Breast cancer
+Cancer,100,Cancer
+Cancer,100,Cancer
+breast cancer,92,Breast cancer
+Poisoning,100,Poisoning
+Single,86,Shingles
+gastric cancer:,90,Gastric cancer
+lymphoma,88,Lymphoma
+Lymphoma,100,Lymphoma
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+my Psoriasis,86,Psoriasis
+Psoriasis,100,Psoriasis
+"Psoriatic Arthritis,",92,Psoriatic arthritis
+"Arthritis,",95,Arthritis
+ever,89,Fever
+unconciousness,90,Unconsciousness
+seizure,86,Seizure
+all,86,Fall
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+art,86,Wart
+weight gain,91,Weight gain
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+age,86,Rage
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+screaming,89,Screaming
+out,86,Gout
+ever,89,Fever
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+difference,91,Indifference
+lagging,86,Gagging
+all,86,Fall
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+out,86,Gout
+MS,100,MS
+MS,100,MS
+ever,89,Fever
+miscarriages,87,Miscarriage
+nervous,86,Nervous
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+screaming,89,Screaming
+all,86,Fall
+old,86,Cold
+emotional problems,94,Emotional problems
+and mood,88,Bad mood
+out,86,Gout
+old,86,Cold
+old,86,Cold
+"kidney cancer,",89,Kidney cancer
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+age,86,Rage
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+MS,100,MS
+bronchitis,90,Bronchitis
+or infection,88,Ear infection
+infection,89,Infection
+nauseous,88,Nauseous
+"dehydration,",87,Dehydration
+an injury,86,Brain injury
+old,86,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+age,86,Rage
+all,86,Fall
+all,86,Fall
+ADHD,100,ADHD
+out,86,Gout
+infection,89,Infection
+all,86,Fall
+all,86,Fall
+age,86,Rage
+abdominal pain,93,Abdominal pain
+ovarian cysts,88,Ovarian cyst
+ever,89,Fever
+"buttock pain,",88,Buttock pain
+back pain,89,Back pain
+palpitations,92,Palpitations
+lightheadedness,93,Lightheadedness
+spaced out,90,Spaced out
+out,86,Gout
+back pain,89,Back pain
+weird feeling,92,Weird feeling
+period pains,92,Period pains
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+weight loss,91,Weight loss
+Fall,100,Fall
+all,86,Fall
+itching,88,Twitching
+a sensitivity,86,Sun sensitivity
+Brushing,88,Bruising
+out,86,Gout
+all,86,Fall
+itching,88,Twitching
+out,86,Gout
+all,86,Fall
+allergy,86,Allergy
+itching,88,Twitching
+all,86,Fall
+allergy,86,Allergy
+Could,89,Cold
+old,86,Cold
+in discomfort,93,Skin discomfort
+discomfort,90,Discomfort
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+eating,86,Sweating
+back ache,89,Back ache
+irregular periodsIts,86,Irregular periods
+addiction,89,Addiction
+abdominal pain,93,Abdominal pain
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+peridontal disease,92,Periodontal disease
+eating,86,Sweating
+all,86,Fall
+nauseous,88,Nauseous
+all,86,Fall
+hypothyroidism,93,Hypothyroidism
+out,86,Gout
+hypothyroidism,93,Hypothyroidism
+out,86,Gout
+old,86,Cold
+shaking,86,Shaking
+old,86,Cold
+breast tenderness,94,Breast tenderness
+tenderness,90,Tenderness
+regular periods,94,Irregular periods
+all,86,Fall
+all,86,Fall
+out,86,Gout
+headache,88,Headache
+out,86,Gout
+headache,88,Headache
+diarrhea,88,Diarrhea
+diarrhea,88,Diarrhea
+eating,86,Sweating
+stinging,88,Stinging
+bruising,88,Bruising
+stinging,88,Stinging
+anxiety,86,Anxiety
+out,86,Gout
+overweight,90,Overweight
+ever,89,Fever
+old,86,Cold
+age,86,Rage
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+abscess,86,Abscess
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+Hives,100,Hives
+diabetic,88,Diabetic
+blood pressure,88,Low blood pressure
+old,86,Cold
+old,86,Cold
+muscle twitching,94,Muscle twitching
+twitching,89,Twitching
+blurred vision,93,Blurred vision
+blurred vision,93,Blurred vision
+old,86,Cold
+out,86,Gout
+ovarian cancer,93,Ovarian cancer
+old,86,Cold
+confused,88,Confused
+"upset stomach,",89,Upset stomach
+mood swings,91,Mood swings
+out,86,Gout
+is Irritable,86,Irritable
+Irritable,100,Irritable
+out,86,Gout
+out,86,Gout
+old,86,Cold
+frustration,91,Frustration
+diffrence,86,Indifference
+headache,88,Headache
+tingling,88,Stinging
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+Cancer),92,Cancer
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+mood swings,91,Mood swings
+confused,88,Confused
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+allergic reaction,94,Allergic reaction
+irregular periods,94,Irregular periods
+weird feeling,92,Weird feeling
+out,86,Gout
+all,86,Fall
+all,86,Fall
+"yetBowel obstruction,",89,Bowel obstruction
+Cyst,100,Cyst
+"Stomach cramps,",97,Stomach cramps
+food poisoning,93,Food poisoning
+poisoning,89,Poisoning
+Could,89,Cold
+confused,88,Confused
+out,86,Gout
+all,86,Fall
+out,86,Gout
+age,86,Rage
+all,86,Fall
+eating,86,Sweating
+all,86,Fall
+jaw stiffness,92,Jaw stiffness
+stiffness,89,Stiffness
+ADHD,100,ADHD
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+old,86,Cold
+diarrhea,88,Diarrhea
+itchy rash,90,Itchy rash
+insomnia,88,Insomnia
+belching,88,Belching
+miscarriage,91,Miscarriage
+nauseated,89,Nauseated
+dry eyes,88,Dry eyes
+old,86,Cold
+out,86,Gout
+ADHD,100,ADHD
+ADHD,100,ADHD
+mood swings,91,Mood swings
+out,86,Gout
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+confused,88,Confused
+old,86,Cold
+out,86,Gout
+vaginal discharge,94,Vaginal discharge
+all,86,Fall
+Sleep,91,Sleepy
+all,86,Fall
+all,86,Fall
+"Crying,",92,Crying
+out,86,Gout
+ear,86,Fear
+screaming,89,Screaming
+out,86,Gout
+ever,89,Fever
+screaming,89,Screaming
+screaming,89,Screaming
+out,86,Gout
+out,86,Gout
+old,86,Cold
+old,86,Cold
+all,86,Fall
+muscle spasm,92,Muscle spasm
+feeling sick,92,Feeling sick
+ever,89,Fever
+ever,89,Fever
+ever,89,Fever
+Nervosa,86,Nervous
+out,86,Gout
+Could,89,Cold
+out,86,Gout
+yeast infection,93,Yeast infection
+infection,89,Infection
+yeast infections,90,Yeast infection
+yeast infection,93,Yeast infection
+infection,89,Infection
+itching,88,Twitching
+confused,88,Confused
+out,86,Gout
+normal behavior,91,Abnormal behaviour
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+old,86,Cold
+nervous,86,Nervous
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+age,86,Rage
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+eating,86,Sweating
+all,86,Fall
+all,86,Fall
+weightloss,86,Weight loss
+overweight,90,Overweight
+all,86,Fall
+cognitive impairmentÃ¢,90,Cognitive impairment
+"cognitive impairment,",93,Cognitive impairment
+bone loss,89,Bone loss
+age,86,Rage
+feeling down,92,Feeling down
+tension,86,Tension
+Cancer,100,Cancer
+age,86,Rage
+heart attacks,88,Heart attack
+bleeding,88,Bleeding
+out,86,Gout
+old,86,Cold
+"muscle pain,",87,Muscle pain
+back pain,89,Back pain
+"chest pain,",86,Chest pain
+numbness,88,Numbness
+weakness,88,Weakness
+all,86,Fall
+MS,100,MS
+fibromyalgia,92,Fibromyalgia
+out,86,Gout
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+nervous,86,Nervous
+all,86,Fall
+out,86,Gout
+out,86,Gout
+tingling,88,Stinging
+old,86,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+ovarian cysts,88,Ovarian cyst
+fatigue,86,Fatigue
+all,86,Fall
+sore throat,91,Sore throat
+pneumonia,89,Pneumonia
+all,86,Fall
+yest infections,87,Chest infection
+bacterial infection,95,Bacterial infection
+infection,89,Infection
+all,86,Fall
+yeast infection,93,Yeast infection
+infection,89,Infection
+Could,89,Cold
+old,86,Cold
+all,86,Fall
+all,86,Fall
+cataract,88,Cataract
+out,86,Gout
+old,86,Cold
+difficulty breathing,95,Difficulty breathing
+old,86,Cold
+old,86,Cold
+out,86,Gout
+bleeding,88,Bleeding
+confused,88,Confused
+other bleeding,86,Mouth bleeding
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+bleeding,88,Bleeding
+old,86,Cold
+ovarian cyst,92,Ovarian cyst
+"heavy periods,",89,Heavy periods
+lightheaded,87,Light-headed
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+weakness,88,Weakness
+tingling,88,Stinging
+out,86,Gout
+muscle spasms,88,Muscle spasm
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+"light-headed,",88,Light-headed
+"mood swings,",87,Mood swings
+a pain,86,Ear pain
+old,86,Cold
+coughing,88,Coughing
+coughing,88,Coughing
+out,86,Gout
+a pain,86,Ear pain
+passed out,90,Passed out
+out,86,Gout
+ever,89,Fever
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+headache,88,Headache
+headache,88,Headache
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+age,86,Rage
+backed out,86,Blacked out
+out,86,Gout
+"breast cancer,",89,Breast cancer
+heart attacks,88,Heart attack
+diabetes,88,Diabetes
+all,86,Fall
+all,86,Fall
+"joint pain,",86,Joint pain
+heartburn,89,Heartburn
+all,86,Fall
+Could,89,Cold
+memory loss,91,Memory loss
+out,86,Gout
+neck pain,89,Neck pain
+ever,89,Fever
+Could,89,Cold
+Could,89,Cold
+out,86,Gout
+Dementia,100,Dementia
+out,86,Gout
+out,86,Gout
+aint,89,Faint
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+eating,86,Sweating
+all,86,Fall
+celiac disease,93,Celiac disease
+old,86,Cold
+out,86,Gout
+old,86,Cold
+difference,91,Indifference
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+old,86,Cold
+eating,86,Sweating
+all,86,Fall
+miscarriage,91,Miscarriage
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+bleeding,88,Bleeding
+old,86,Cold
+all,86,Fall
+itching,88,Twitching
+itching,88,Twitching
+itching,88,Twitching
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+confused,88,Confused
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+bacterial infection,95,Bacterial infection
+infection,89,Infection
+Could,89,Cold
+bacterial infection,95,Bacterial infection
+infection,89,Infection
+old,86,Cold
+being irritated,88,Feeling irritated
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+out,86,Gout
+out,86,Gout
+headache,88,Headache
+tingling,88,Stinging
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+infection,89,Infection
+an injury,86,Brain injury
+ever,89,Fever
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+eating,86,Sweating
+eating,86,Sweating
+redness,88,Tiredness
+yeast infection,93,Yeast infection
+infection,89,Infection
+out,86,Gout
+chest pains,86,Chest pain
+palpitations,92,Palpitations
+regurgitation,92,Regurgitation
+blood pressure,88,Low blood pressure
+anxiety,86,Anxiety
+all,86,Fall
+all,86,Fall
+toDiabetes,89,Diabetes
+all,86,Fall
+nightmare,89,Nightmare
+all,86,Fall
+old,86,Cold
+Ulcerative colitis,100,Ulcerative colitis
+colitis,86,Colitis
+colitis,86,Colitis
+out,86,Gout
+diabetic,88,Diabetic
+old,86,Cold
+hot flashes,91,Hot flashes
+all,86,Fall
+old,86,Cold
+all,86,Fall
+Thyroid Cancer,93,Thyroid cancer
+Cancer,100,Cancer
+a pain,86,Ear pain
+all,86,Fall
+bleeding,88,Bleeding
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+eating,86,Sweating
+eating,86,Sweating
+all,86,Fall
+all,86,Fall
+the discoloration?,86,Tooth discoloration
+out,86,Gout
+all,86,Fall
+bleeding,88,Bleeding
+breast tenderness,94,Breast tenderness
+tenderness,90,Tenderness
+Could,89,Cold
+old,86,Cold
+withdrawn,89,Withdrawn
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+age,86,Rage
+"yetBowel obstruction,",89,Bowel obstruction
+Cyst,100,Cyst
+"Stomach cramps,",97,Stomach cramps
+food poisoning,93,Food poisoning
+poisoning,89,Poisoning
+out,86,Gout
+heart attack,92,Heart attack
+Streaming,89,Screaming
+Streaming,89,Screaming
+Streaming,89,Screaming
+old,86,Cold
+feeling sick,92,Feeling sick
+Could,89,Cold
+out,86,Gout
+all,86,Fall
+dry eyes,88,Dry eyes
+inflammation,92,Inflammation
+nervous,86,Nervous
+old,86,Cold
+old,86,Cold
+claustrophobic,86,Claustrophobia
+out,86,Gout
+ever,89,Fever
+vomiting,88,Vomiting
+out,86,Gout
+out,86,Gout
+MS,100,MS
+all,86,Fall
+out,86,Gout
+old,86,Cold
+and burning,87,Pain burning
+all,86,Fall
+sciatica,88,Sciatica
+ever,89,Fever
+ADHD,100,ADHD
+out,86,Gout
+all,86,Fall
+infertility,91,Infertility
+all,86,Fall
+out,86,Gout
+old,86,Cold
+epilepsy,88,Epilepsy
+epilepsy,88,Epilepsy
+Asthma,100,Asthma
+wheezing,88,Wheezing
+being irritated,88,Feeling irritated
+all,86,Fall
+Hysterical,89,Hysteria
+frustration,91,Frustration
+lymphoma,88,Lymphoma
+ever,89,Fever
+a pressure,87,Head pressure
+out,86,Gout
+old,86,Cold
+age,86,Rage
+all,86,Fall
+numbness,88,Numbness
+old,86,Cold
+age,86,Rage
+coherent,89,Incoherent
+cleft palate,92,Cleft palate
+"bladder cancer,",90,Bladder cancer
+bladder cancer?,90,Bladder cancer
+old,86,Cold
+out,86,Gout
+allergy,86,Allergy
+eating,86,Sweating
+nutrition,86,Malnutrition
+out,86,Gout
+itching,88,Twitching
+out,86,Gout
+all,86,Fall
+genital herpes,93,Genital herpes
+old,86,Cold
+out,86,Gout
+nauseated,89,Nauseated
+"celiacs disease,",87,Celiac disease
+all,86,Fall
+nervous,86,Nervous
+all,86,Fall
+swelling,88,Swelling
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+muscle cramp,92,Muscle cramp
+bleeding,88,Bleeding
+old,86,Cold
+old,86,Cold
+bursitis,88,Bursitis
+old,86,Cold
+all,86,Fall
+bleeding,88,Bleeding
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+out,86,Gout
+coughing,88,Coughing
+all,86,Fall
+ever,89,Fever
+eating,86,Sweating
+all,86,Fall
+eating,86,Sweating
+out,86,Gout
+out,86,Gout
+out,86,Gout
+weight gainI,87,Weight gain
+all,86,Fall
+old,86,Cold
+flushed,86,Flushed
+out,86,Gout
+dehydration,91,Dehydration
+bleeding,88,Bleeding
+all,86,Fall
+bleeding,88,Bleeding
+old,86,Cold
+foot cramps,91,Foot cramps
+constipation,92,Constipation
+out,86,Gout
+discomfort,90,Discomfort
+infection,89,Infection
+stinging,88,Stinging
+out,86,Gout
+prostate cancer,93,Prostate cancer
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+nervous,86,Nervous
+old,86,Cold
+anxiety,86,Anxiety
+panic attack,92,Panic attack
+out,86,Gout
+glaucoma,88,Glaucoma
+glaucoma,88,Glaucoma
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+nightmare,89,Nightmare
+all,86,Fall
+old,86,Cold
+all,86,Fall
+vagina discharge,91,Vaginal discharge
+old,86,Cold
+night sweats,92,Night sweats
+hot flashes,91,Hot flashes
+all,86,Fall
+weakness,88,Weakness
+pelvic pains,87,Pelvic pain
+out,86,Gout
+pelvic pains,87,Pelvic pain
+tearin pain,87,Uterine pain
+infertilty,86,Infertility
+old,86,Cold
+burping,86,Burping
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+age,86,Rage
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+"chest tightness,",90,Chest tightness
+fatigue,86,Fatigue
+all,86,Fall
+out,86,Gout
+all,86,Fall
+photophobia,91,Photophobia
+headache,88,Headache
+out,86,Gout
+eye disease,87,Lyme disease
+lyme disease,92,Lyme disease
+poisoning,89,Poisoning
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+ADD,86,ADHD
+lung cancer,91,Lung cancer
+old,86,Cold
+all,86,Fall
+ever,89,Fever
+ear,86,Fear
+Dizzyness,89,Dizziness
+out,86,Gout
+"mood swings,",87,Mood swings
+Could,89,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+miscarriage,91,Miscarriage
+bleeding,88,Bleeding
+nauseous,88,Nauseous
+weird feeling,92,Weird feeling
+back pain,89,Back pain
+out,86,Gout
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+all,86,Fall
+Starting,93,Staring
+all,86,Fall
+out,86,Gout
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+old,86,Cold
+all,86,Fall
+out,86,Gout
+confused,88,Confused
+perimenopausal symptoms,86,Menopausal symptoms
+all,86,Fall
+agoraphobia,91,Agoraphobia
+all,86,Fall
+addiction,89,Addiction
+all,86,Fall
+umbilical hernia,94,Umbilical hernia
+Diarrhea,100,Diarrhea
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+blood pressure,88,Low blood pressure
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+nutrition,86,Malnutrition
+"nightmares,",86,Nightmares
+bed wetting,91,Bed wetting
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+nightmare,89,Nightmare
+out,86,Gout
+out,86,Gout
+out,86,Gout
+ADHD,100,ADHD
+fatigue,86,Fatigue
+fatigue,86,Fatigue
+old,86,Cold
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+menopausal symptoms,95,Menopausal symptoms
+night sweats,92,Night sweats
+pelvic pain,91,Pelvic pain
+and pressure,88,Head pressure
+all,86,Fall
+out,86,Gout
+menstrual cramps,94,Menstrual cramps
+dehydration,91,Dehydration
+all,86,Fall
+"uterine cancer,",90,Uterine cancer
+be bleeding,87,Eye bleeding
+bleeding,88,Bleeding
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+weight loss,91,Weight loss
+old,86,Cold
+all,86,Fall
+all,86,Fall
+nose bleeds,86,Nose bleed
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+over weight,86,Overweight
+hypothyroidism,93,Hypothyroidism
+out,86,Gout
+all,86,Fall
+all,86,Fall
+knee pain,89,Knee pain
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+all,86,Fall
+tingling,88,Stinging
+lip swelling,92,Lip swelling
+swelling,88,Swelling
+lip swelling,92,Lip swelling
+swelling,88,Swelling
+tingling,88,Stinging
+tingling,88,Stinging
+out,86,Gout
+out,86,Gout
+out,86,Gout
+a burning,86,Pain burning
+out,86,Gout
+age,86,Rage
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+out,86,Gout
+stomach ulcer,92,Stomach ulcer
+old,86,Cold
+ever,89,Fever
+burning sensationat,89,Burning sensation
+a fever,88,Hay fever
+infection,89,Infection
+bleeding,88,Bleeding
+all,86,Fall
+all,86,Fall
+all,86,Fall
+an attack,86,Panic attack
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+"stomach cramps,",90,Stomach cramps
+stomach cramp,89,Stomach cramps
+constipation,92,Constipation
+muscle strain,92,Muscle strain
+all,86,Fall
+old,86,Cold
+all,86,Fall
+old,86,Cold
+out,86,Gout
+bleeding,88,Bleeding
+light period,88,Light periods
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+light period,88,Light periods
+bleeding,88,Bleeding
+poor vision,91,Poor vision
+all,86,Fall
+out,86,Gout
+light period,88,Light periods
+old,86,Cold
+age,86,Rage
+all,86,Fall
+old,86,Cold
+all,86,Fall
+ever,89,Fever
+a burning,86,Pain burning
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+abdominal pain,93,Abdominal pain
+out,86,Gout
+ovarian cancerSo,87,Ovarian cancer
+bleeding,88,Bleeding
+old,86,Cold
+age,86,Rage
+headache,88,Headache
+Could,89,Cold
+confused,88,Confused
+on bleeding,88,Wound bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+all,86,Fall
+early infection,86,Ear infection
+infection,89,Infection
+confused,88,Confused
+cataract,88,Cataract
+old,86,Cold
+all,86,Fall
+all,86,Fall
+old,86,Cold
+ADHD,100,ADHD
+out,86,Gout
+out,86,Gout
+screaming,89,Screaming
+out,86,Gout
+old,86,Cold
+ADHD,100,ADHD
+hyperactive,91,Hyperactive
+out,86,Gout
+out,86,Gout
+yeast infection,93,Yeast infection
+infection,89,Infection
+infection,89,Infection
+the infection,86,Chest infection
+infection,89,Infection
+me discomfort,89,Arm discomfort
+discomfort,90,Discomfort
+discomfort,90,Discomfort
+old,86,Cold
+out,86,Gout
+ever,89,Fever
+age,86,Rage
+old,86,Cold
+out,86,Gout
+all,86,Fall
+ever,89,Fever
+ear,86,Fear
+all,86,Fall
+old,86,Cold
+age,86,Rage
+out,86,Gout
+restless,88,Restless
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+all,86,Fall
+irritability,92,Irritability
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+no difference,88,Indifference
+difference,91,Indifference
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+tearing,86,Staring
+cataract,88,Cataract
+out,86,Gout
+out,86,Gout
+old,86,Cold
+screaming,89,Screaming
+eating,86,Sweating
+all,86,Fall
+MS,100,MS
+Got,86,Gout
+out,86,Gout
+old,86,Cold
+out,86,Gout
+ostioarthritis,86,Osteoarthritis
+restless,88,Restless
+blood pressure,88,Low blood pressure
+fibromyalgia,92,Fibromyalgia
+age,86,Rage
+headache,88,Headache
+shingles,88,Shingles
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+bells palsy,87,Bell's palsy
+all,86,Fall
+Meningitis,100,Meningitis
+out,86,Gout
+Could,89,Cold
+Multiple Sclerosis,94,Multiple sclerosis
+age,86,Rage
+age,86,Rage
+age,86,Rage
+all,86,Fall
+frequent headaches,94,Frequent headaches
+old,86,Cold
+old,86,Cold
+all,86,Fall
+all,86,Fall
+addiction,89,Addiction
+difference,91,Indifference
+all,86,Fall
+all,86,Fall
+heart infection,87,Chest infection
+infection,89,Infection
+old,86,Cold
+ever,89,Fever
+ear,86,Fear
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+age,86,Rage
+old,86,Cold
+out,86,Gout
+infertility,91,Infertility
+Pain,100,Pain
+all,86,Fall
+Limping,100,Limping
+overweight,90,Overweight
+old,86,Cold
+weight loss,91,Weight loss
+all,86,Fall
+Weight Loss,91,Weight loss
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+or discharge,88,Ear discharge
+itching,88,Twitching
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+all,86,Fall
+staggering,90,Staggering
+old,86,Cold
+ADD,86,ADHD
+ADHD,100,ADHD
+Manic,100,Manic
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Ovarian Cancer,93,Ovarian cancer
+Cancer,100,Cancer
+old,86,Cold
+"weight gain,",87,Weight gain
+over weight,86,Overweight
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+ever,89,Fever
+worn out,88,Worn out
+out,86,Gout
+confused,88,Confused
+old,86,Cold
+fatigue,86,Fatigue
+headache,88,Headache
+out,86,Gout
+all,86,Fall
+tearing,86,Staring
+tearing,86,Staring
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+eating,86,Sweating
+eating,86,Sweating
+diarrhea,88,Diarrhea
+all,86,Fall
+old,86,Cold
+old,86,Cold
+screaming,89,Screaming
+out,86,Gout
+out,86,Gout
+infection,89,Infection
+old,86,Cold
+all,86,Fall
+incontinence,92,Incontinence
+ear,86,Fear
+swollen gland,89,Swollen glands
+all,86,Fall
+ear,86,Fear
+tonsillitis,91,Tonsillitis
+ear,86,Fear
+old,86,Cold
+seizure,86,Seizure
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+seizure,86,Seizure
+seizure,86,Seizure
+seizure,86,Seizure
+MS,100,MS
+bleeding,88,Bleeding
+my discharge,88,Eye discharge
+bleeding,88,Bleeding
+all,86,Fall
+bleeding,88,Bleeding
+oil,86,Boil
+oil,86,Boil
+oil,86,Boil
+oil,86,Boil
+all,86,Fall
+Burling,86,Burping
+out,86,Gout
+all,86,Fall
+old,86,Cold
+age,86,Rage
+out,86,Gout
+bleeding,88,Bleeding
+month bleeding,86,Mouth bleeding
+bleeding,88,Bleeding
+all,86,Fall
+abscess,86,Abscess
+abscess,86,Abscess
+flushed,86,Flushed
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+itchy rash,90,Itchy rash
+vertigo,86,Vertigo
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+ever,89,Fever
+discomfort,90,Discomfort
+out,86,Gout
+staring,86,Staring
+out,86,Gout
+all,86,Fall
+out,86,Gout
+screaming,89,Screaming
+old,86,Cold
+"overweight,",86,Overweight
+old,86,Cold
+weigh loss,86,Weight loss
+overweight,90,Overweight
+overweight,90,Overweight
+hepatitis,89,Hepatitis
+all,86,Fall
+shaking,86,Shaking
+old,86,Cold
+old,86,Cold
+age,86,Rage
+all,86,Fall
+out,86,Gout
+out,86,Gout
+confused,88,Confused
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+eye pain,88,Eye pain
+vision loss,91,Vision loss
+blurred vision,93,Blurred vision
+old,86,Cold
+a fever,88,Hay fever
+all,86,Fall
+coughing,88,Coughing
+coughing,88,Coughing
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+ever,89,Fever
+out,86,Gout
+confused,88,Confused
+all,86,Fall
+"joint pain,",86,Joint pain
+joint pain,90,Joint pain
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+"exhaustion,",86,Exhaustion
+lightheadedness,93,Lightheadedness
+out,86,Gout
+glaucoma,88,Glaucoma
+all,86,Fall
+old,86,Cold
+old,86,Cold
+heartburn,89,Heartburn
+a burning,86,Pain burning
+all,86,Fall
+heartburn,89,Heartburn
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+bleeding,88,Bleeding
+all,86,Fall
+miscarriage,91,Miscarriage
+some discoloration,86,Gum discoloration
+discoloration,87,Gum discoloration
+age,86,Rage
+sagging,86,Gagging
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+miscarriage,91,Miscarriage
+all,86,Fall
+all,86,Fall
+stretch marks,92,Stretch marks
+out,86,Gout
+out,86,Gout
+out,86,Gout
+headache,88,Headache
+no discomfort,86,Foot discomfort
+discomfort,90,Discomfort
+hypothyroidism,93,Hypothyroidism
+hypothyroidism,93,Hypothyroidism
+memory loss,91,Memory loss
+hypothyroidism,93,Hypothyroidism
+eating,86,Sweating
+all,86,Fall
+sickness,88,Sickness
+irritable,89,Irritable
+old,86,Cold
+difference,91,Indifference
+heart attacks,88,Heart attack
+old,86,Cold
+all,86,Fall
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+itching,88,Twitching
+a burning,86,Pain burning
+yeast infection,93,Yeast infection
+infection,89,Infection
+bad discomfort,90,Head discomfort
+discomfort,90,Discomfort
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+blood pressure,88,Low blood pressure
+Arthritis,100,Arthritis
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+an infection,88,Ear infection
+infection,89,Infection
+internal bleeding,94,Internal bleeding
+bleeding,88,Bleeding
+miscarriage,91,Miscarriage
+"constipation,",88,Constipation
+out,86,Gout
+out,86,Gout
+old,86,Cold
+diarrhea,88,Diarrhea
+all,86,Fall
+old,86,Cold
+anxiety,86,Anxiety
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+old,86,Cold
+all,86,Fall
+old,86,Cold
+all,86,Fall
+nervous,86,Nervous
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+astigamatism,87,Astigmatism
+age,86,Rage
+out,86,Gout
+out,86,Gout
+vomiting,88,Vomiting
+sore throat,91,Sore throat
+dehydration,91,Dehydration
+"inflammation,",88,Inflammation
+sweating,88,Sweating
+gastritis,89,Gastritis
+eating,86,Sweating
+fertility,90,Infertility
+all,86,Fall
+eating,86,Sweating
+irritable,89,Irritable
+old,86,Cold
+anxiety,86,Anxiety
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+infection,89,Infection
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+chicken pox,86,Chickenpox
+age,86,Rage
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+withdrawn,89,Withdrawn
+out,86,Gout
+switching,89,Twitching
+all,86,Fall
+withdrawn,89,Withdrawn
+bleeding,88,Bleeding
+out,86,Gout
+"Breast Cancer,",89,Breast cancer
+"Cancer,",92,Cancer
+out,86,Gout
+rising,86,Bruising
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+"mental disorder,",90,Mental disorder
+anxiety,86,Anxiety
+out,86,Gout
+all,86,Fall
+mood swings,91,Mood swings
+nightmares,90,Nightmares
+vivid dreams),88,Vivid dreams
+panic attack,92,Panic attack
+anxiety,86,Anxiety
+bad mood,88,Bad mood
+allergy,86,Allergy
+redness,88,Tiredness
+out,86,Gout
+"internally bleeding,",86,Internal bleeding
+all,86,Fall
+anxiety,86,Anxiety
+"kidney pain,",87,Kidney pain
+"kidney stones,",89,Kidney stones
+kidney stones,92,Kidney stones
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+infection,89,Infection
+all,86,Fall
+weightloss,86,Weight loss
+out,86,Gout
+bleeding,88,Bleeding
+itching,88,Twitching
+and burning,87,Pain burning
+or infection,88,Ear infection
+infection,89,Infection
+liver failure,92,Liver failure
+old,86,Cold
+arthritis,89,Arthritis
+out,86,Gout
+no digestion,87,Indigestion
+digestion,90,Indigestion
+sinus infection,93,Sinus infection
+infection,89,Infection
+shaking,86,Shaking
+sinus infection,93,Sinus infection
+infection,89,Infection
+exhaustion,90,Exhaustion
+twitching,89,Twitching
+all,86,Fall
+twitching,89,Twitching
+all,86,Fall
+ear,86,Fear
+vaginal discharge,94,Vaginal discharge
+hypertension,92,Hypertension
+out,86,Gout
+eating,86,Sweating
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Nervous,100,Nervous
+A Miscarriage,92,Miscarriage
+Miscarriage,100,Miscarriage
+Birth Defect,88,Birth defects
+Nervous,100,Nervous
+irritable,89,Irritable
+constipation,92,Constipation
+irregular periods,94,Irregular periods
+bipolar disorder,94,Bipolar disorder
+all,86,Fall
+pimples,86,Pimples
+an infection,88,Ear infection
+infection,89,Infection
+age,86,Rage
+age,86,Rage
+old,86,Cold
+age,86,Rage
+open wound,90,Open wound
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+nightmares,90,Nightmares
+eating,86,Sweating
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+night terrors,92,Night terrors
+restless,88,Restless
+ankle swelling,93,Ankle swelling
+swelling,88,Swelling
+redness,88,Tiredness
+heals,91,Wheals
+swelling,88,Swelling
+old,86,Cold
+Could,89,Cold
+blood pressure,88,Low blood pressure
+all,86,Fall
+feeling sick,92,Feeling sick
+bruising,88,Bruising
+swelling,88,Swelling
+out,86,Gout
+swelling,88,Swelling
+old,86,Cold
+age,86,Rage
+old,86,Cold
+out,86,Gout
+age,86,Rage
+age,86,Rage
+age,86,Rage
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+difference,91,Indifference
+Fibromyalgia,100,Fibromyalgia
+vomiting,88,Vomiting
+out,86,Gout
+cold symptomsie,86,Cold symptoms
+"sore throat,",87,Sore throat
+"runny nose,",86,Runny nose
+cold symptoms,92,Cold symptoms
+sickness,88,Sickness
+old,86,Cold
+vaginal disharge,91,Vaginal discharge
+old,86,Cold
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+bleeding,88,Bleeding
+age,86,Rage
+out,86,Gout
+out,86,Gout
+out,86,Gout
+War,86,Wart
+War,86,Wart
+fatigue,86,Fatigue
+Manning,86,Moaning
+out,86,Gout
+union,91,Bunion
+all,86,Fall
+out,86,Gout
+all,86,Fall
+sweating,88,Sweating
+out,86,Gout
+all,86,Fall
+bladder infection),91,Bladder infection
+out,86,Gout
+or discomfort,89,Arm discomfort
+discomfort,90,Discomfort
+abdominal discomfort,95,Abdominal discomfort
+discomfort,90,Discomfort
+The discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+Could,89,Cold
+out,86,Gout
+all,86,Fall
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+ever,89,Fever
+age,86,Rage
+difference,91,Indifference
+out,86,Gout
+substance abuser,90,Substance abuse
+age,86,Rage
+age,86,Rage
+all,86,Fall
+meningitis,90,Meningitis
+old,86,Cold
+tingling,88,Stinging
+over weight,86,Overweight
+stomach pain,92,Stomach pain
+all,86,Fall
+anxiety,86,Anxiety
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+weakness,88,Weakness
+out,86,Gout
+old,86,Cold
+all,86,Fall
+eating,86,Sweating
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+eating,86,Sweating
+out,86,Gout
+all,86,Fall
+ADHD,100,ADHD
+ADHD,100,ADHD
+astigmatism,91,Astigmatism
+"fision ,loss",87,Vision loss
+out,86,Gout
+"menstral cramps,",88,Menstrual cramps
+inguinal hernias,90,Inguinal hernia
+all,86,Fall
+a pain,86,Ear pain
+all,86,Fall
+chronic pain,92,Chronic pain
+ever,89,Fever
+all,86,Fall
+inflammation,92,Inflammation
+allergy,86,Allergy
+itching,88,Twitching
+itching,88,Twitching
+all,86,Fall
+all,86,Fall
+all,86,Fall
+fungal infection,94,Fungal infection
+infection,89,Infection
+itching,88,Twitching
+all,86,Fall
+heals,91,Wheals
+out,86,Gout
+menopausal symptoms,95,Menopausal symptoms
+lost weight,91,Lost weight
+ever,89,Fever
+anxiety,86,Anxiety
+seizure,86,Seizure
+bruising,88,Bruising
+stinging,88,Stinging
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+ever,89,Fever
+out,86,Gout
+as Prostatecancer,88,Prostate cancer
+Prostatecancer,97,Prostate cancer
+out,86,Gout
+old,86,Cold
+screaming,89,Screaming
+out,86,Gout
+out,86,Gout
+internal bleeding,94,Internal bleeding
+bleeding,88,Bleeding
+heart attack,92,Heart attack
+all,86,Fall
+nervous,86,Nervous
+old,86,Cold
+out,86,Gout
+old,86,Cold
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+"agressive behavior,",89,Aggressive behavior
+out,86,Gout
+seizure,86,Seizure
+broken leg,90,Broken leg
+out,86,Gout
+all,86,Fall
+swollen eyelid,93,Swollen eyelid
+all,86,Fall
+age,86,Rage
+impotence,89,Impotence
+Could,89,Cold
+"weight gain""",87,Weight gain
+out,86,Gout
+all,86,Fall
+misscarriage,87,Miscarriage
+sagging,86,Gagging
+swollen gland,89,Swollen glands
+old,86,Cold
+lost weight?,87,Lost weight
+bleeding,88,Bleeding
+all,86,Fall
+blisters,88,Blisters
+swelling,88,Swelling
+headache,88,Headache
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+"heart attack,",88,Heart attack
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+all,86,Fall
+aneurysm,88,Aneurysm
+blood pressure,88,Low blood pressure
+blood pressure,88,Low blood pressure
+Could,89,Cold
+aneurysm,88,Aneurysm
+sleep apnea,91,Sleep apnea
+sleep apnea,91,Sleep apnea
+chest pains,86,Chest pain
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+"constipation,",88,Constipation
+flanck pain,86,Flank pain
+sickness,88,Sickness
+weakness,88,Weakness
+infection,89,Infection
+constipation,92,Constipation
+all,86,Fall
+all,86,Fall
+",chronic pain",88,Chronic pain
+all,86,Fall
+old,86,Cold
+all,86,Fall
+cataract,88,Cataract
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+art,86,Wart
+all,86,Fall
+normal behavior?,88,Abnormal behaviour
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+itching,88,Twitching
+psoriasis,89,Psoriasis
+psoriasis,89,Psoriasis
+Bell's palsy,100,Bell's palsy
+oil,86,Boil
+out,86,Gout
+double visioned,86,Double vision
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+vaginal discharge,94,Vaginal discharge
+out,86,Gout
+ever,89,Fever
+"yeast infection,",90,Yeast infection
+out,86,Gout
+old,86,Cold
+a pressure,87,Head pressure
+fracture,88,Fracture
+a fracture,91,Jaw fracture
+fracture,88,Fracture
+infection,89,Infection
+a pain,86,Ear pain
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+all,86,Fall
+ever,89,Fever
+ever,89,Fever
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+old,86,Cold
+stiffness,89,Stiffness
+shaking,86,Shaking
+anxiety,86,Anxiety
+out,86,Gout
+anxiety,86,Anxiety
+Confused,100,Confused
+out,86,Gout
+hemorrhoids,91,Hemorrhoids
+worn out,88,Worn out
+out,86,Gout
+After that,86,After taste
+"constipation,",88,Constipation
+anxiety,86,Anxiety
+Could,89,Cold
+bleeding,88,Bleeding
+constipation,92,Constipation
+out,86,Gout
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+sinus infection,93,Sinus infection
+infection,89,Infection
+Could,89,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+age,86,Rage
+old,86,Cold
+old,86,Cold
+all,86,Fall
+old,86,Cold
+bleeding,88,Bleeding
+out,86,Gout
+bleeding,88,Bleeding
+out,86,Gout
+the tightness,86,Chest tightness
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+blister,86,Blister
+blister,86,Blister
+hooking,86,Choking
+nutrition,86,Malnutrition
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+flushed,86,Flushed
+all,86,Fall
+"Screaming,",95,Screaming
+old,86,Cold
+weight loss?,87,Weight loss
+feeling sick,92,Feeling sick
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+ADHD;,89,ADHD
+out,86,Gout
+normal behavior?,88,Abnormal behaviour
+knee pain,89,Knee pain
+old,86,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+muscle pain,91,Muscle pain
+all,86,Fall
+muscle pain,91,Muscle pain
+hot flashes,91,Hot flashes
+hot flashes,91,Hot flashes
+breast cancer,92,Breast cancer
+hot flashes,91,Hot flashes
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+"hot flashes,",87,Hot flashes
+"night sweats,",88,Night sweats
+insomnia,88,Insomnia
+all,86,Fall
+old,86,Cold
+all,86,Fall
+all,86,Fall
+bleeding,88,Bleeding
+out,86,Gout
+ovarian cancer,93,Ovarian cancer
+"head injury,",87,Head injury
+is infection,89,Sinus infection
+infection,89,Infection
+out,86,Gout
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+out,86,Gout
+bleeding,88,Bleeding
+all,86,Fall
+coughing,88,Coughing
+all,86,Fall
+ADHD,100,ADHD
+old,86,Cold
+out,86,Gout
+migraine,88,Migraine
+nose bleeds,86,Nose bleed
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+age,86,Rage
+nightmares,90,Nightmares
+ever,89,Fever
+stomach discomfort,94,Stomach discomfort
+discomfort,90,Discomfort
+diabetic,88,Diabetic
+"hypertension,",88,Hypertension
+all,86,Fall
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+ever,89,Fever
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+old,86,Cold
+fertility,90,Infertility
+and discomfort,90,Head discomfort
+discomfort,90,Discomfort
+Labial swelling,87,Facial swelling
+swelling,88,Swelling
+all,86,Fall
+insomnia,88,Insomnia
+Fibromyalgia,100,Fibromyalgia
+Chronic Fatigue,93,Chronic fatigue
+Fatigue,100,Fatigue
+the Fibromyalgia,86,Fibromyalgia
+Fibromyalgia,100,Fibromyalgia
+Chronic Fatigue,93,Chronic fatigue
+Fatigue,100,Fatigue
+out,86,Gout
+all,86,Fall
+all,86,Fall
+Could,89,Cold
+out,86,Gout
+difference,91,Indifference
+out,86,Gout
+panic attacks,92,Panic attacks
+and pressure,88,Head pressure
+bruising,88,Bruising
+"blurred vision,",90,Blurred vision
+feeling unwell,93,Feeling unwell
+old,86,Cold
+dry eyes,88,Dry eyes
+infection,89,Infection
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+Could,89,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+oil,86,Boil
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+out,86,Gout
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+migraine,88,Migraine
+out,86,Gout
+all,86,Fall
+"chest, pain",86,Chest pain
+all,86,Fall
+confusion,89,Confusion
+confused,88,Confused
+confused,88,Confused
+all,86,Fall
+ever,89,Fever
+confused,88,Confused
+diabetes,88,Diabetes
+old,86,Cold
+hyperactive,91,Hyperactive
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+nightmare,89,Nightmare
+"nerve pain,",86,Nerve pain
+itching,88,Twitching
+and burning,87,Pain burning
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+nervous,86,Nervous
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+anxiety,86,Anxiety
+chest pains,86,Chest pain
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+anxiety,86,Anxiety
+all,86,Fall
+nauseous,88,Nauseous
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+anxiety,86,Anxiety
+old,86,Cold
+or discomfort,89,Arm discomfort
+discomfort,90,Discomfort
+out,86,Gout
+out,86,Gout
+violent,86,Violent
+violent,86,Violent
+rising,86,Bruising
+union,91,Bunion
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+muscle cramps,88,Muscle cramp
+back pain,89,Back pain
+muscle spasm,92,Muscle spasm
+weakness,88,Weakness
+numbness,88,Numbness
+tingling,88,Stinging
+anxiety,86,Anxiety
+the infection,86,Chest infection
+infection,89,Infection
+out,86,Gout
+out,86,Gout
+the infection,86,Chest infection
+infection,89,Infection
+out,86,Gout
+irregular periods,94,Irregular periods
+swelling,88,Swelling
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+"sore throat,",87,Sore throat
+sinus infection,93,Sinus infection
+infection,89,Infection
+Cyst,100,Cyst
+blood pressure,88,Low blood pressure
+diabetic,88,Diabetic
+overweight,90,Overweight
+double vision,92,Double vision
+age,86,Rage
+out,86,Gout
+violent,86,Violent
+out,86,Gout
+"emotional problems,",92,Emotional problems
+out,86,Gout
+age,86,Rage
+all,86,Fall
+eating,86,Sweating
+confusion,89,Confusion
+on face,88,Moon face
+all,86,Fall
+pulmonary emboli,88,Pulmonary embolism
+all,86,Fall
+out,86,Gout
+all,86,Fall
+ever,89,Fever
+all,86,Fall
+out,86,Gout
+Flu,100,Flu
+all,86,Fall
+"breast tenderness,",91,Breast tenderness
+"tenderness,",86,Tenderness
+Could,89,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+differences,87,Indifference
+out,86,Gout
+pimples,86,Pimples
+breast cancer,92,Breast cancer
+"heart failure,",89,Heart failure
+dizzy spell,87,Dizzy spells
+all,86,Fall
+old,86,Cold
+neck pain,89,Neck pain
+tingling,88,Stinging
+all,86,Fall
+oil,86,Boil
+oil,86,Boil
+all,86,Fall
+oil,86,Boil
+all,86,Fall
+old,86,Cold
+itching,88,Twitching
+out,86,Gout
+all,86,Fall
+Bleeding,100,Bleeding
+painful intercourse,95,Painful intercourse
+painful intercourse,95,Painful intercourse
+nightmare,89,Nightmare
+all,86,Fall
+bleeding,88,Bleeding
+period pain,87,Period pains
+out,86,Gout
+out,86,Gout
+head spinning,92,Head spinning
+old,86,Cold
+old,86,Cold
+a bleeding,87,Anal bleeding
+bleeding,88,Bleeding
+all,86,Fall
+old,86,Cold
+ADHD,100,ADHD
+out,86,Gout
+old,86,Cold
+screaming,89,Screaming
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+bleeding,88,Bleeding
+all,86,Fall
+old,86,Cold
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+diabetes,88,Diabetes
+diabetes,88,Diabetes
+nervous,86,Nervous
+old,86,Cold
+stomach pain,92,Stomach pain
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+ADHD,100,ADHD
+age,86,Rage
+all,86,Fall
+out,86,Gout
+old,86,Cold
+anxiety,86,Anxiety
+out,86,Gout
+difference,91,Indifference
+all,86,Fall
+eating,86,Sweating
+confused,88,Confused
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+"Anxiety,",93,Anxiety
+all,86,Fall
+Anxiety,100,Anxiety
+old,86,Cold
+nasal congestion,94,Nasal congestion
+epilepsy,88,Epilepsy
+a fever,88,Hay fever
+out,86,Gout
+sickness,88,Sickness
+feverish,88,Feverish
+all,86,Fall
+incontinence,92,Incontinence
+out,86,Gout
+internal bleeding,94,Internal bleeding
+bleeding,88,Bleeding
+"weight gain,",87,Weight gain
+sciatica,88,Sciatica
+all,86,Fall
+abscess,86,Abscess
+swelling,88,Swelling
+all,86,Fall
+miscarriage,91,Miscarriage
+regular period,90,Irregular periods
+a discharge,92,Ear discharge
+tinnitus,88,Tinnitus
+anxiety,86,Anxiety
+out,86,Gout
+addiction,89,Addiction
+old,86,Cold
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+Could,89,Cold
+all,86,Fall
+old,86,Cold
+irregular periods,94,Irregular periods
+fibromyalgia,92,Fibromyalgia
+all,86,Fall
+old,86,Cold
+all,86,Fall
+all,86,Fall
+out,86,Gout
+ADHD,100,ADHD
+all,86,Fall
+eating,86,Sweating
+ovarian cyst,92,Ovarian cyst
+heavy periods,92,Heavy periods
+bleeding,88,Bleeding
+out,86,Gout
+miscariage,86,Miscarriage
+infection,89,Infection
+pneumonia,89,Pneumonia
+all,86,Fall
+"chest pain,",86,Chest pain
+muscle pain,91,Muscle pain
+muscle ache,91,Muscle ache
+dry discomfort,86,Arm discomfort
+discomfort,90,Discomfort
+an infection,88,Ear infection
+infection,89,Infection
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+the discomfort,87,Chest discomfort
+discomfort,90,Discomfort
+"discomfort,",86,Discomfort
+stinging,88,Stinging
+ever,89,Fever
+out,86,Gout
+yeast infection,93,Yeast infection
+infection,89,Infection
+an infection,88,Ear infection
+infection,89,Infection
+vaginal odour,92,Vaginal odour
+breast cancer,92,Breast cancer
+breast cancer,92,Breast cancer
+breast cancer,92,Breast cancer
+breast cancer,92,Breast cancer
+out,86,Gout
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+out,86,Gout
+all,86,Fall
+old,86,Cold
+"premature labor,",88,Premature labour
+all,86,Fall
+ever,89,Fever
+ovarian cyst,92,Ovarian cyst
+ever,89,Fever
+all,86,Fall
+all,86,Fall
+all,86,Fall
+blood pressure,88,Low blood pressure
+out,86,Gout
+frustration,91,Frustration
+ever,89,Fever
+all,86,Fall
+tingling,88,Stinging
+old,86,Cold
+out,86,Gout
+all,86,Fall
+back pain,89,Back pain
+stiffness,89,Stiffness
+old,86,Cold
+out,86,Gout
+out,86,Gout
+paranoia,88,Paranoia
+old,86,Cold
+out,86,Gout
+menopause symptoms,86,Menopausal symptoms
+hot flashes,91,Hot flashes
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+out,86,Gout
+all,86,Fall
+nervous,86,Nervous
+all,86,Fall
+abscess,86,Abscess
+abscess,86,Abscess
+abscess,86,Abscess
+old,86,Cold
+age,86,Rage
+age,86,Rage
+out,86,Gout
+ever,89,Fever
+an infection,88,Ear infection
+infection,89,Infection
+dementia,88,Dementia
+out,86,Gout
+bladder infection,94,Bladder infection
+infection,89,Infection
+all,86,Fall
+irregular period,91,Irregular periods
+old,86,Cold
+it periods,87,Light periods
+regular period,90,Irregular periods
+old,86,Cold
+allergic reactions,91,Allergic reaction
+confused,88,Confused
+up bleeding,87,Gum bleeding
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+old,86,Cold
+nervous,86,Nervous
+neck cramps,91,Neck cramps
+heartburn,89,Heartburn
+"feeling sick,",88,Feeling sick
+heartburn,89,Heartburn
+overweight,90,Overweight
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+old,86,Cold
+menstrual cramps,94,Menstrual cramps
+numbness,88,Numbness
+out,86,Gout
+MS,100,MS
+MS,100,MS
+eating,86,Sweating
+fatigue,86,Fatigue
+out,86,Gout
+old,86,Cold
+on fertility,87,Infertility
+fertility,90,Infertility
+all,86,Fall
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+"Neuralgia,",95,Neuralgia
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+nagging,86,Gagging
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+breast pains,87,Breast pain
+all,86,Fall
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+agressive behaviour,92,Aggressive behaviour
+out,86,Gout
+all,86,Fall
+cataract,88,Cataract
+weird feeling,92,Weird feeling
+out,86,Gout
+out,86,Gout
+miscarrige,86,Miscarriage
+out,86,Gout
+out,86,Gout
+out,86,Gout
+sickness,88,Sickness
+old,86,Cold
+eating,86,Sweating
+Hepatitis,100,Hepatitis
+old,86,Cold
+out,86,Gout
+and burning,87,Pain burning
+irritability,92,Irritability
+losat weight,87,Lost weight
+skin rash,89,Skin rash
+lost weight,91,Lost weight
+bleeding,88,Bleeding
+old,86,Cold
+out,86,Gout
+Could,89,Cold
+old,86,Cold
+all,86,Fall
+age,86,Rage
+all,86,Fall
+old,86,Cold
+out,86,Gout
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+old,86,Cold
+all,86,Fall
+buring sensation,91,Burning sensation
+all,86,Fall
+old,86,Cold
+vaginal discharge,94,Vaginal discharge
+abdominal pain,93,Abdominal pain
+pimples,86,Pimples
+Infection,100,Infection
+bleeding,88,Bleeding
+a discharge,92,Ear discharge
+old,86,Cold
+ever,89,Fever
+infertlility,87,Infertility
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+neck pain,89,Neck pain
+ever,89,Fever
+migraine,88,Migraine
+out,86,Gout
+headache,88,Headache
+"upset stomach,",89,Upset stomach
+anxiety,86,Anxiety
+tinnitus,88,Tinnitus
+migraine,88,Migraine
+anxiety,86,Anxiety
+blurred vision,93,Blurred vision
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+old,86,Cold
+having thoughts,87,Racing thoughts
+or discharge,88,Ear discharge
+yeast infection,93,Yeast infection
+infection,89,Infection
+all,86,Fall
+old,86,Cold
+age,86,Rage
+normal behaviour,94,Abnormal behaviour
+old,86,Cold
+old,86,Cold
+rectal prolapse,93,Rectal prolapse
+nervous,86,Nervous
+ever,89,Fever
+all,86,Fall
+panic attacks,92,Panic attacks
+all,86,Fall
+old,86,Cold
+day dreaming,87,Daydreaming
+all,86,Fall
+vaginal bleeding,94,Vaginal bleeding
+bleeding,88,Bleeding
+all,86,Fall
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+all,86,Fall
+screaming,89,Screaming
+old,86,Cold
+old,86,Cold
+out,86,Gout
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+infection,89,Infection
+out,86,Gout
+all,86,Fall
+out,86,Gout
+all,86,Fall
+old,86,Cold
+all,86,Fall
+omitting,88,Vomiting
+old,86,Cold
+out,86,Gout
+out,86,Gout
+old,86,Cold
+out,86,Gout
+abdominal pain,93,Abdominal pain
+kidney stones,92,Kidney stones
+a pain,86,Ear pain
+that infection,87,Throat infection
+infection,89,Infection
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+old,86,Cold
+old,86,Cold
+Could,89,Cold
+all,86,Fall
+out,86,Gout
+runny nose,90,Runny nose
+"hypothyroidism,",90,Hypothyroidism
+difference,91,Indifference
+hypothyroidism,93,Hypothyroidism
+blood pressure,88,Low blood pressure
+drug abuser,86,Drug abuse
+all,86,Fall
+all,86,Fall
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+ever,89,Fever
+difference,91,Indifference
+all,86,Fall
+out,86,Gout
+old,86,Cold
+age,86,Rage
+out,86,Gout
+all,86,Fall
+out,86,Gout
+itching,88,Twitching
+itching,88,Twitching
+burning sensation,94,Burning sensation
+old,86,Cold
+infection,89,Infection
+infection,89,Infection
+infection,89,Infection
+out,86,Gout
+out,86,Gout
+swelling,88,Swelling
+overweight,90,Overweight
+blood pressure,88,Low blood pressure
+eating,86,Sweating
+all,86,Fall
+oil,86,Boil
+out,86,Gout
+out,86,Gout
+anxiety,86,Anxiety
+oil,86,Boil
+hostility,89,Hostility
+out,86,Gout
+hepatitis,89,Hepatitis
+hepatitis,89,Hepatitis
+all,86,Fall
+all,86,Fall
+and pressure,88,Head pressure
+all,86,Fall
+hepatitis,89,Hepatitis
+"exhaustion,",86,Exhaustion
+weight again,87,Weight gain
+bleeding,88,Bleeding
+old,86,Cold
+age,86,Rage
+all,86,Fall
+old,86,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+old,86,Cold
+keep talking,88,Sleep talking
+old,86,Cold
+all,86,Fall
+all,86,Fall
+miscarriage,91,Miscarriage
+"miscarriage,",87,Miscarriage
+miscarriage,91,Miscarriage
+all,86,Fall
+bleeding,88,Bleeding
+all,86,Fall
+old,86,Cold
+vomiting,88,Vomiting
+vomiting,88,Vomiting
+hot flashes,91,Hot flashes
+old,86,Cold
+yeast infections,90,Yeast infection
+Pain,100,Pain
+the infection,86,Chest infection
+infection,89,Infection
+yeast infection,93,Yeast infection
+infection,89,Infection
+all,86,Fall
+eating,86,Sweating
+yeast infection,93,Yeast infection
+infection,89,Infection
+an infection,88,Ear infection
+infection,89,Infection
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+all,86,Fall
+ever,89,Fever
+age,86,Rage
+ever,89,Fever
+That pain,90,Throat pain
+shooting pain,92,Shooting pain
+breast cancer,92,Breast cancer
+nerve pain,90,Nerve pain
+Cancer,100,Cancer
+old,86,Cold
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+all,86,Fall
+normal behavior,91,Abnormal behaviour
+out,86,Gout
+old,86,Cold
+old,86,Cold
+difference,91,Indifference
+Could,89,Cold
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+old,86,Cold
+"ADHD,",89,ADHD
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+out,86,Gout
+ever,89,Fever
+out,86,Gout
+infection,89,Infection
+old,86,Cold
+all,86,Fall
+out,86,Gout
+out,86,Gout
+old,86,Cold
+cataract,88,Cataract
+out,86,Gout
+all,86,Fall
+differences,87,Indifference
+out,86,Gout
+double vision,92,Double vision
+out,86,Gout
+ever,89,Fever
+weight gain?,87,Weight gain
+genital herpes,93,Genital herpes
+tingling,88,Stinging
+genital herpes,93,Genital herpes
+cold sores,90,Cold sores
+age,86,Rage
+genital herpes,93,Genital herpes
+all,86,Fall
+all,86,Fall
+out,86,Gout
+all,86,Fall
+all,86,Fall
+confused,88,Confused
+all,86,Fall
+all,86,Fall
+all,86,Fall
+old,86,Cold
+"fertility,",86,Infertility
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+me bleeding,87,Eye bleeding
+bleeding,88,Bleeding
+out,86,Gout
+headache,88,Headache
+out,86,Gout
+age,86,Rage
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+nauseated,89,Nauseated
+all,86,Fall
+"palpitations,",88,Palpitations
+nauseated,89,Nauseated
+"palpitations,",88,Palpitations
+"palpitations,",88,Palpitations
+all,86,Fall
+nauseated,89,Nauseated
+all,86,Fall
+confused,88,Confused
+out,86,Gout
+"difference,",87,Indifference
+out,86,Gout
+ever,89,Fever
+differences,87,Indifference
+painfull periods,90,Painful periods
+"regular periods,",91,Irregular periods
+hair loss,89,Hair loss
+out,86,Gout
+anxiety,86,Anxiety
+pimples,86,Pimples
+out,86,Gout
+old,86,Cold
+old,86,Cold
+bleeding,88,Bleeding
+out,86,Gout
+my discharge,88,Eye discharge
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+out,86,Gout
+out,86,Gout
+ADD,86,ADHD
+old,86,Cold
+age,86,Rage
+weight lossI,87,Weight loss
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+old,86,Cold
+age,86,Rage
+all,86,Fall
+out,86,Gout
+old,86,Cold
+age,86,Rage
+anxiety,86,Anxiety
+all,86,Fall
+lightheadedness,93,Lightheadedness
+anxiety,86,Anxiety
+blood pressure,88,Low blood pressure
+all,86,Fall
+out,86,Gout
+lightheadness,86,Lightheadedness
+anxiety,86,Anxiety
+cataract,88,Cataract
+cataract,88,Cataract
+cataract,88,Cataract
+cataract,88,Cataract
+cataract,88,Cataract
+Could,89,Cold
+out,86,Gout
+old,86,Cold
+old,86,Cold
+out,86,Gout
+eye pain,88,Eye pain
+sinus infection,93,Sinus infection
+infection,89,Infection
+throat irritation,94,Throat irritation
+ear,86,Fear
+tingling,88,Stinging
+ear,86,Fear
+ear,86,Fear
+ear,86,Fear
+ear,86,Fear
+redness,88,Tiredness
+"shooting pain,",89,Shooting pain
+old,86,Cold
+ever,89,Fever
+out,86,Gout
+old,86,Cold
+out,86,Gout
+frustration,91,Frustration
+all,86,Fall
+old,86,Cold
+age,86,Rage
+kidney infection,94,Kidney infection
+infection,89,Infection
+old,86,Cold
+all,86,Fall
+fatigue,86,Fatigue
+fatigue,86,Fatigue
+all,86,Fall
+out,86,Gout
+Fear,100,Fear
+all,86,Fall
+all,86,Fall
+cold sores,90,Cold sores
+out,86,Gout
+all,86,Fall
+hearing loss,92,Hearing loss
+MS,100,MS
+ear,86,Fear
+out,86,Gout
+ear,86,Fear
+all,86,Fall
+ear,86,Fear
+ear,86,Fear
+sickness,88,Sickness
+all,86,Fall
+MS,100,MS
+blurred vison,89,Blurred vision
+all,86,Fall
+all,86,Fall
+oil,86,Boil
+all,86,Fall
+out,86,Gout
+Cancer,100,Cancer
+"Cancer,",92,Cancer
+Breast and,86,Breast pain
+Ovarian Cancer;,90,Ovarian cancer
+Cancer;,92,Cancer
+Breast Cancer),89,Breast cancer
+Cancer),92,Cancer
+Ovarian Cancer,93,Ovarian cancer
+Cancer,100,Cancer
+old,86,Cold
+old,86,Cold
+ADHD,100,ADHD
+all,86,Fall
+all,86,Fall
+old,86,Cold
+ever,89,Fever
+heavy periods,92,Heavy periods
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+all,86,Fall
+all,86,Fall
+out,86,Gout
+and throbbing,89,Head throbbing
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+out,86,Gout
+old,86,Cold
+"discomfort,",86,Discomfort
+all,86,Fall
+eating,86,Sweating
+irregular periods,94,Irregular periods
+all,86,Fall
+blurred vision,93,Blurred vision
+old,86,Cold
+swelling,88,Swelling
+swelling,88,Swelling
+swollen lymphnodes,92,Swollen lymph nodes
+headache,88,Headache
+age,86,Rage
+old,86,Cold
+redness,88,Tiredness
+confused,88,Confused
+ever,89,Fever
+out,86,Gout
+all,86,Fall
+all,86,Fall
+old,86,Cold
+out,86,Gout
+ear,86,Fear
+old,86,Cold
+all,86,Fall
+old,86,Cold
+all,86,Fall
+infection,89,Infection
+ear,86,Fear
+out,86,Gout
+all,86,Fall
+on infections,86,Wound infection
+tingling,88,Stinging
+tingling,88,Stinging
+tingling,88,Stinging
+numbness,88,Numbness
+seizure,86,Seizure
+seizure,86,Seizure
+seizure,86,Seizure
+tingling,88,Stinging
+out,86,Gout
+numbness,88,Numbness
+all,86,Fall
+old,86,Cold
+all,86,Fall
+old,86,Cold
+old,86,Cold
+allergy,86,Allergy
+old,86,Cold
+infection,89,Infection
+infection,89,Infection
+old,86,Cold
+bleeding,88,Bleeding
+bleeding,88,Bleeding
+out,86,Gout
+old,86,Cold
+sweating,88,Sweating
+sweating,88,Sweating
+all,86,Fall
+all,86,Fall
+restless,88,Restless
+restless,88,Restless
+out,86,Gout
+insomnia,88,Insomnia
+addiction,89,Addiction
+coughing,88,Coughing
+passed out,90,Passed out
+out,86,Gout
+coughing,88,Coughing
+ever,89,Fever
+"stomach upset,",89,Stomach upset
+out,86,Gout
+old,86,Cold
+all,86,Fall
+all,86,Fall
+claustrophobic,86,Claustrophobia
+all,86,Fall
+all,86,Fall
+tension,86,Tension
+only inflammation,86,Corneal inflammation
+inflammation,92,Inflammation
+anxiety,86,Anxiety
+out,86,Gout
+all,86,Fall
+all,86,Fall
+burping,86,Burping
+all,86,Fall
+emotional stress,88,Emotional distress
+"feeling sick,",88,Feeling sick
+ever,89,Fever
+ovarian cancer,93,Ovarian cancer
+all,86,Fall
+ever,89,Fever
+"overweight,",86,Overweight
+all,86,Fall
+all,86,Fall
+ever,89,Fever
+old,86,Cold
+ever,89,Fever
+old,86,Cold
+ADHD,100,ADHD
+ADHD,100,ADHD
+age,86,Rage
+old,86,Cold
+old,86,Cold
+confused,88,Confused
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+Birth Defect,88,Birth defects
+birth defects,92,Birth defects
+Birth Defect,88,Birth defects
+all,86,Fall
+miscarriage,91,Miscarriage
+miscarriage,91,Miscarriage
+"miscarriage,",87,Miscarriage
+ever,89,Fever
+ever,89,Fever
+miscarriage,91,Miscarriage
+ever,89,Fever
+miscarriage?,87,Miscarriage
+confused,88,Confused
+all,86,Fall
+all,86,Fall
+out,86,Gout
+old,86,Cold
+out,86,Gout
+out,86,Gout
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+old,86,Cold
+old,86,Cold
+all,86,Fall
+all,86,Fall
+old,86,Cold
+all,86,Fall
+ADHD,100,ADHD
+all,86,Fall
+Could,89,Cold
+Rosacea,100,Rosacea
+Rosacea,100,Rosacea
+all,86,Fall
+out,86,Gout
+out,86,Gout
+all,86,Fall
+old,86,Cold
+out,86,Gout
+nervous,86,Nervous
+out,86,Gout
+out,86,Gout
+all,86,Fall
+all,86,Fall
+all,86,Fall
+out,86,Gout
+age,86,Rage
+panic attacks,92,Panic attacks
+painting,88,Fainting
+cataract,88,Cataract
+headache,88,Headache
+out,86,Gout
+ovarian cancer,93,Ovarian cancer
+all,86,Fall
+out,86,Gout
+old,86,Cold
+all,86,Fall
+Screaming,100,Screaming
+all,86,Fall
+ever,89,Fever
+sickness,88,Sickness
+old,86,Cold
+"sore throat,",87,Sore throat
+sore throat,91,Sore throat
+all,86,Fall
+"runny nose,",86,Runny nose
+sore throat,91,Sore throat
+ever,89,Fever
+old,86,Cold
+heart attack,92,Heart attack
+bleeding,88,Bleeding
+out,86,Gout
+out,86,Gout
+screaming,89,Screaming
+all,86,Fall
+out,86,Gout
+weight loss,91,Weight loss
+weight loss,91,Weight loss
